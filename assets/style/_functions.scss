@@ -1,0 +1,14 @@
+// Media queries
+@mixin screen($breakpoint) {
+  @media #{map-get($media, $breakpoint)} {
+    @content
+  }
+}
+
+@mixin screen-all() {
+  @each $breakpoint in $breakpoints {
+    @media #{map-get($media, $breakpoint)} {
+      @content($breakpoint)
+    }
+  }
+}

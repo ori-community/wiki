@@ -1,0 +1,16 @@
+// Screen dimensions
+$breakpoint-sm: 768px;
+$breakpoint-md: 1200px;
+$media: (
+  sm: "only screen and (max-width: #{$breakpoint-sm})",
+  md: "only screen and (max-width: #{$breakpoint-md}) and (min-width: #{$breakpoint-sm + 1px})",
+  lg: "only screen and (min-width: #{$breakpoint-md + 1px})",
+  smmd: "only screen and (max-width: #{$breakpoint-md})",
+  mdlg: "only screen and (min-width: #{$breakpoint-sm + 1px})"
+);
+$breakpoints: (sm, md, lg);
+
+:export {
+  breakpointSm: $breakpoint-sm;
+  breakpointMd: $breakpoint-md;
+}

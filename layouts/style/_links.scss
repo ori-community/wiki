@@ -1,0 +1,15 @@
+a {
+  transition: color 200ms;
+  text-decoration: none;
+  cursor: pointer;
+  color: var(--color-secondary);
+}
+
+a:hover {
+  transition: color 50ms;
+  color: var(--color-tertiary);
+}
+
+article a:not(.button) {
+  text-decoration: underline;
+}

@@ -1,0 +1,20 @@
+.fade {
+  &-enter-active, &-leave-active {
+    transition: opacity 0.15s;
+  }
+
+  &-enter, &-leave-to {
+    opacity: 0;
+  }
+}
+
+.dialog {
+  &-enter-active, &-leave-active {
+    transition: opacity 0.15s, transform 0.15s;
+  }
+
+  &-enter, &-leave-to {
+    opacity: 0;
+    transform: scale(0.9);
+  }
+}
