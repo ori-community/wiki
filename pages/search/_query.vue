@@ -17,10 +17,12 @@
 
 <script>
   import SearchBar from '~/components/search-bar'
+  import {mapContentPaths} from '~/assets/lib/mapContentPaths'
+
   export default {
     components: {SearchBar},
     async asyncData({$content, params}) {
-      const articles = await $content({deep: true}).search(params.query).fetch()
+      const articles = mapContentPaths(await $content({deep: true}).search(params.query).fetch())
 
       return {
         articles: articles
