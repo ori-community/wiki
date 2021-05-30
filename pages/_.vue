@@ -128,8 +128,11 @@
           flex-direction: column;
           max-height: 100vh;
           overflow-y: scroll;
-          padding-right: 1em;
-          margin-right: -1em;
+
+          @include screen(mdlg) {
+            padding-right: 1em;
+            margin-right: -1em;
+          }
 
           .toc {
             list-style: none;
