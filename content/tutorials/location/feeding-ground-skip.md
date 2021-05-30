@@ -11,13 +11,13 @@ Feeding ground have three different states:
 
 After you get Seir, Shriek won’t be in Feeding Ground anymore which removes the kill plane from this area, letting you access Weeping Ridge and therefore Willow’s End. But there are multiple ways to bypass the kill plane, letting you access these areas without getting Seir.
 
-# After cat and mouse
+## After cat and mouse
 
 If you already did cat and mouse, you want to enter the kill plane and wait until Shriek takes off to attack you. Then open your map and teleport to the nearby spirit well. If done correctly, Shriek won’t be at Feeding Ground anymore and the kill plane will be disabled.
 
 <youtube-video id="agWiMYsgod8"></youtube-video>
 
-# Before doing cat and mouse
+## Before doing cat and mouse
 
 This option is better because at the end of the cat and mouse section, boulders will block the path above the spirit well, which makes accessing Weeping Ridge harder if you don't have a lot of verticality options.
 

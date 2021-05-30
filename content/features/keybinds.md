@@ -15,7 +15,7 @@ Changing up your binds can be really useful, especially if you are playing in [G
 The most used binds are [Alt+P](https://github.com/sparkle-preference/OriWotwRandomizerClient/wiki/Randomizer's-special-commands), [sentry jumps](https://github.com/sparkle-preference/OriWotwRandomizerClient/wiki/Sentry-jump) and [grenade jump](https://github.com/sparkle-preference/OriWotwRandomizerClient/wiki/Grenade-jumps).
 
 
-# Keyboard
+## Keyboard
 
 You can already change your controls in the in-game rebinding tool but this one is a bit limited since you won’t be able to use multibinds. If you only want to change your control, feel free to use it nonetheless.
 
@@ -35,7 +35,7 @@ Don’t forget to reload your game after you modify this file. Avoid using the i
 
 There is a bunch of third party software you can use to bind your actions. The most popular one being [AutoHotKey](https://www.autohotkey.com/) which lets you run a script in which you can specify what binds you want. AutoHotKey can also support macros so it is more versatile than the KeyRebinding file from Ori and the Will of the Wisps. You can learn how to use this tool be reading the [documentation](https://www.autohotkey.com/docs/AutoHotkey.htm).
 
-# Controllers
+## Controllers
 
 Controller rebinding is a bit harder than keyboard rebinding since you can’t use any in-game solutions. There’s also a rebinding file called `ControllerButtonRemaps.txt` but as far as we know, this file isn’t working properly so it’s not recommended to use it.
 

@@ -13,7 +13,7 @@ Since you are using Sentry, you will spend 1 energy each time you do a sentry ju
 
 Framerate influences aerial sentry jump’s timing as well as the height you gain from sentry jumps. It’s recommended to cap your game at either 60 or 59 FPS for the best results.
 
-# Grounded sentry jumps
+## Grounded sentry jumps
 
 If you want to use a sentry jump on the ground with Sword, you need to hold the up direction and then press sentry and sword on the same frame. Even if you still get height if you miss the timing, it’s recommended to set up a [bind](features/keybinds) in order to perform them more consistently. Poor timing will result in less height gained, but is often still useful as not all applications require a full height sentry jump.
 
@@ -26,7 +26,7 @@ Hammer sentry jumps are a bit different: even if the inputs are the same as a sw
 Hammer sentry jumps give you more height than Sword sentry jumps but you will have less air control. You also need to be immobile when doing a hammer sentry jump while a sword sentry jump can be performed while running.
 The timing for Hammer sentry jumps is also less strict than Sword sentry jumps.
 
-# Aerial sentry jumps
+## Aerial sentry jumps
 
 When used in the air, sentry jumps timing changes a bit.
 For Sword sentry jumps, you want to first use your sentry and a couple frames afterwards input an up slash. You can chain them together to gain a lot of height.

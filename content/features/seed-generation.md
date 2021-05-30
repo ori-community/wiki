@@ -6,7 +6,7 @@ tags:
 
 To get started, you will need to download Java version 8 [here](https://www.java.com/en/download/manual.jsp). Make sure you have Java 8 specifically since it won't work with other versions of Java. After downloading Java, you will need to restart your computer. Once Java is fully installed, launch SeedGen.jar from the randomizer installation folder.
 
-# Main tabulation
+## Main tabulation
 This is where most of the options are. Let’s go through each of them.
 
 ## Logic groups
@@ -42,7 +42,7 @@ These options change the item pool of the randomizer
 * Enable Netcode activates the communication with the randomizer server, which is required for bingo autotracking and coop games. Learn more about these game modes [here](https://github.com/sparkle-preference/OriWotwRandomizerClient/wiki/Multiplayer).
 
 
-# Headers tabulation
+## Headers tabulation
 Headers are game mods which can do a lot of things. By default, you will have these ones:
 * 3-line bingo: prints updates when you have completed a line in bingo and sets the game as completed when you get 3 lines. Enable Netcode if you want to use this header
 * Better random spawn: opens some doors by default, making spawning from other teleporters than Marsh work better.
@@ -51,5 +51,5 @@ Headers are game mods which can do a lot of things. By default, you will have th
 * Skippable cutscenes: skips several cutscenes which aren't skipped normally by the randomizer.
 You can also create a folder called headers in your randomizer installation folder. If you place a randomizer header file (.wotwrh) in this folder, the seed generator will load it and you will be able to enable the headers within from the header tab.
 
-# Advanced tabs
+## Advanced tabs
 This is the same thing as a header, but you will be able to write your own header which will be used in the seed you generate. To learn how to write an header, check [this document](https://docs.google.com/document/d/1IR1DHnbtO8rydCLEgFh-yp3iRkzZbFAG-EmR5hxrfmU/edit) 
