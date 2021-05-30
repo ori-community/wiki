@@ -11,16 +11,20 @@
         <nuxt-content :document="article"/>
       </article>
       <aside v-if="!article.hideSidebar">
-        <ul v-if="article.toc.length > 0" class="toc">
-          <li v-for="link of article.toc" :key="link.id">
-            <nuxt-link :to="`#${link.id}`" class="item" :class="`indent-${link.depth - minTocLevel}`">
-              {{ link.text }}
+        <div class="sticky">
+          <div class="sidebar">
+            <ul v-if="article.toc.length > 0" class="toc">
+              <li v-for="link of article.toc" :key="link.id">
+                <nuxt-link :to="`#${link.id}`" class="item" :class="`indent-${link.depth - minTocLevel}`">
+                  {{ link.text }}
+                </nuxt-link>
+              </li>
+            </ul>
+            <nuxt-link v-for="article in sidebarArticles" :key="article.path" class="button" :to="article.path">
+              {{ article.sidebarTitle || article.title }}
             </nuxt-link>
-          </li>
-        </ul>
-        <nuxt-link v-for="article in sidebarArticles" :key="article.path" class="button" :to="article.path">
-          {{ article.sidebarTitle || article.title }}
-        </nuxt-link>
+          </div>
+        </div>
       </aside>
     </div>
   </main>
@@ -113,34 +117,47 @@
 
     aside {
       min-width: 20%;
-      display: flex;
-      flex-direction: column;
 
-      .toc {
-        list-style: none;
-        padding-left: 0;
-        padding-bottom: 1em;
-        margin-bottom: 1em;
-        border-bottom: 1px solid var(--color-background-light);
-        transition: border-bottom-color 200ms;
+      .sticky {
+        position: sticky;
+        margin-top: 1em;
+        top: 0;
 
-        .item {
-          display: block;
-          line-height: 1.3em;
-          padding: 0.2em 0;
+        .sidebar {
+          display: flex;
+          flex-direction: column;
+          max-height: 100vh;
+          overflow-y: scroll;
+          padding-right: 1em;
+          margin-right: -1em;
 
-          @for $i from 1 through 6 {
-            &.indent-#{$i} {
-              padding-left: $i * 0.5em;
-              font-size: 0.9em;
+          .toc {
+            list-style: none;
+            padding-left: 0;
+            padding-bottom: 1em;
+            margin-bottom: 1em;
+            border-bottom: 1px solid var(--color-background-light);
+            transition: border-bottom-color 200ms;
+
+            .item {
+              display: block;
+              line-height: 1.3em;
+              padding: 0.2em 0;
+
+              @for $i from 1 through 6 {
+                &.indent-#{$i} {
+                  padding-left: $i * 0.5em;
+                  font-size: 0.9em;
+                }
+              }
             }
           }
-        }
-      }
 
-      .button {
-        margin-bottom: 0.2em;
-        padding: 0.4em 0.6em;
+          .button {
+            margin-bottom: 0.2em;
+            padding: 0.4em 0.6em;
+          }
+        }
       }
     }
   }
