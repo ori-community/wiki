@@ -10,15 +10,12 @@ It’s more situational but burrowing into something, gliding in wind current, u
 
 Using launch also resets your double jump and dash so you can use a second aerial dash if you dash then launch and dash again. 
 
-![](https://i.giphy.com/media/2RNduXNnOTlwgFWMW8/giphy.webp)
-
+<youtube-video id="N9aWbTtg3Gg" />
 
 Sword is really useful in that regard too: when you hit something with your sword, you will get your launch, double jump and dash back. 
 
-![](https://i.giphy.com/media/n5psh9OGRK7yxWzHZB/giphy.webp)
-
+<youtube-video id="0LhJbHXsPIA" />
 
 Some weird geometry in ceilings can also reset your launch and dash when you touch them.
 
-
-![](https://i.giphy.com/media/J4JkwqLlfm65YNn2WM/giphy.webp)
+<youtube-video id="PVWCq8JPZUk" />

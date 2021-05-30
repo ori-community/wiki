@@ -9,5 +9,4 @@ To perform it, while grounded, stand still and hold glide then jump. When you re
 
 It is also possible to do it while running but the timing is a bit different. When running, start by jumping then hold glide shortly after. Like when standstill, release glide and jump again when you reach the apex of your jump.
 
-
-![](https://i.giphy.com/media/aD57qcIXKip7xMJ0Pg/giphy.webp)
+<youtube-video id="VfsbyqlBgi8" />
