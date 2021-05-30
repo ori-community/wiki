@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1622363696",layout:"default",error:a,serverRendered:true,routePath:"\u002Ftutorials\u002Fweapon-jumps",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"3fb8c168"}}}}(null));
