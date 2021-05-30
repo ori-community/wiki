@@ -15,3 +15,5 @@ The randomizer adds a few new commands you can activate by pressing multiple key
 * Ctrl + Alt + L: Toggles Cursor Lock
 * Ctrl + Alt + C: Show current coordinates
 * Ctrl + Alt + N: Toggles showing location names in spoiler filter (hold L in map)
+
+You can rebind these commands by modifying the rando_binds.ahk file (it gets generated the first time you launch the randomizer).

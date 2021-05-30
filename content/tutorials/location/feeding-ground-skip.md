@@ -1,7 +1,7 @@
 ---
 title: Feeding ground skip
 tags:
-- tutorial
+- location-tutorial
 ---
 
 Feeding ground have three different states:
@@ -15,7 +15,7 @@ After you get Seir, Shriek won’t be in Feeding Ground anymore which removes th
 
 If you already did cat and mouse, you want to enter the kill plane and wait until Shriek takes off to attack you. Then open your map and teleport to the nearby spirit well. If done correctly, Shriek won’t be at Feeding Ground anymore and the kill plane will be disabled.
 
-<youtube-video id="agWiMYsgod8" />
+<youtube-video id="agWiMYsgod8"></youtube-video>
 
 # Before doing cat and mouse
 
@@ -29,14 +29,16 @@ There are two main triggers. The first one is at the location where Ori is. This
 
 To do so, you can use Burrow to pass under it.
 
-<youtube-video id="cJ_xU7McWog" />
+<youtube-video id="cJ_xU7McWog"></youtube-video>
 
-You can also pass over it with your aerial mobility. As long as you land further than these bones, you will be able to move freely in Feeding Ground. However, be careful: at Ori’s position in the first screenshot, you won’t be able to your abilities so make sure to have enough height so you can pass through that first trigger without touching the ground.
+You can also pass over it with your aerial mobility. As long as you land further than these bones, you will be able to move freely in Feeding Ground.
+However, be careful: at Ori’s position in the first screenshot, you won’t be able to use your abilities.
+So make sure to have enough height so you can pass through that first trigger without touching the ground.
 
 This can be done with Launch from the ground
 
-<youtube-video id="UImKJkabkgU" />
+<youtube-video id="UImKJkabkgU"></youtube-video>
 
-But if you don't have Launch, you will have to rely on glide, jumps and dash. You can hit the skulls on the ground with your sword in order to [aerial reset](/tutorials/aerial-reset).
+If you don't have Launch, you will have to rely on glide, jumps and dash. You can hit the skulls on the ground with your sword in order to [aerial reset](/tutorials/aerial-reset).
 
-<youtube-video id="3MnOID88M6k" />
+<youtube-video id="3MnOID88M6k"></youtube-video>

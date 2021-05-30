@@ -11,4 +11,4 @@ This ensures that every playthrough is beatable by placing each progression item
 For more information, you can read the [logic guide](/logic-groups).
 This mod also adds other functionality to the game. Click on the links below to learn more about them.
 
-<page-list by-path="/features" />
+<page-list by-path="/features"></page-list>
