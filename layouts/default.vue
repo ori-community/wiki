@@ -16,6 +16,8 @@
 </style>
 
 <style lang="scss" scoped>
+  @import "assets/style/framework";
+
   .main-container {
     min-height: 100vh;
     display: flex;
@@ -28,6 +30,10 @@
       padding: 3em 2em;
       max-width: 1100px;
       flex-grow: 1;
+
+      @include screen(sm) {
+        padding: 3em 1em;
+      }
     }
   }
 
