@@ -15,7 +15,7 @@ Framerate influences aerial sentry jump’s timing as well as the height you gai
 
 ## Grounded sentry jumps
 
-If you want to use a sentry jump on the ground with Sword, you need to hold the up direction and then press sentry and sword on the same frame. Even if you still get height if you miss the timing, it’s recommended to set up a [bind](features/keybinds) in order to perform them more consistently. Poor timing will result in less height gained, but is often still useful as not all applications require a full height sentry jump.
+If you want to use a sentry jump on the ground with Sword, you need to hold the up direction and then press sentry and sword on the same frame. Even if you still get height if you miss the timing, it’s recommended to set up a [bind](/features/keybinds) in order to perform them more consistently. Poor timing will result in less height gained, but is often still useful as not all applications require a full height sentry jump.
 
 <youtube-video id="_WCxGRaR7mI"></youtube-video>
 

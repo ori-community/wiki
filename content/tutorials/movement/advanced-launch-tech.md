@@ -25,7 +25,7 @@ In order to perform it: jump in a direction, press the opposite direction, launc
 
 ## Weapon Launch
 
-If you do a Launch upward and an upslash on the same frame, your Launch will go further. You can do it with both Sword and Hammer but Hammer Launch are more powerfull than Sword Launch. Both can be use midair but you will need to use your Sword upslash if you want to do a Sword Launch midair. It's recommended to set up a [bind](features/keybinds) to perform them more easily.
+If you do a Launch upward and an upslash on the same frame, your Launch will go further. You can do it with both Sword and Hammer but Hammer Launch are more powerful than Sword Launch. Both can be used midair but you will need to use your Sword upslash if you want to do a Sword Launch midair. It's recommended to set up a [bind](/features/keybinds) to perform them more easily.
 You can combine it with a Launch Swap to go even further.
 
 <youtube-video id="7CVboUqFXTs"></youtube-video>
@@ -46,7 +46,7 @@ Like Terrawalk, if you use launch on a slope in the ceiling, you will maintain s
 
 ## Launch Glide
 
-This trick is exclusive to keyboard and mouse control, but you can [bind](features/keybinds) your second stick as a mouse if you want to use it on a controller.
+This trick is exclusive to keyboard and mouse control, but you can [bind](/features/keybinds) your second stick as a mouse if you want to use it on a controller.
 If before using Launch you release your directional input after doing either a backflip, releasing a bash or doing a reverse dash, you will preserve some of your Launch momentum.
 You can combine this with Launch Swap to go even faster.
 Launch Glide can be executed with a controller on the Switch version but is not possible on the Xbox or PC version without a keyboard and mouse.

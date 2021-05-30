@@ -33,6 +33,9 @@ Links to other articles must be absolute, e.g.:
 [some link](/features/some-link)
 ```
 
+Tip: To replace all relative internal links with absolute ones, regexp-replace
+`([^!]\[[^\]]+\]\()(?!https)(?!/)([^\)]+)\)` with `$1/$2\)`.
+
 
 ### Content tags
 
