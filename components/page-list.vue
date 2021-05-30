@@ -44,7 +44,7 @@
 
       query = query
         .only(['slug', 'title', 'tags', 'path'])
-        .sortBy('title', 'desc')
+        .sortBy('title', 'asc')
 
       this.articles = await query.fetch()
     },

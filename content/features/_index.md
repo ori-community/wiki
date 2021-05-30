@@ -1,5 +1,5 @@
 ---
-title: New features
+title: Features
 ---
 
 The main function of this randomizer is shuffling all the item locations.
@@ -10,3 +10,5 @@ The item placement however is not completely random: there is an algorithm or lo
 This ensures that every playthrough is beatable by placing each progression item at a location you will be able to reach.
 For more information, you can read the [logic guide](/logic-groups).
 This mod also adds other functionality to the game. Click on the links below to learn more about them.
+
+<page-list by-path="/features" />
