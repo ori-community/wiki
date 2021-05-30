@@ -4,13 +4,20 @@
       <h1 class="title">{{ article.title }}</h1>
       <div class="spacer"></div>
 
-      <search-bar class="search-bar" />
+      <search-bar class="search-bar"/>
     </header>
     <div class="article-grid">
       <article>
-        <nuxt-content :document="article" />
+        <nuxt-content :document="article"/>
       </article>
       <aside v-if="!article.hideSidebar">
+        <ul v-if="article.toc.length > 0" class="toc">
+          <li v-for="link of article.toc" :key="link.id">
+            <nuxt-link :to="`#${link.id}`" class="item" :class="`indent-${link.depth - minTocLevel}`">
+              {{ link.text }}
+            </nuxt-link>
+          </li>
+        </ul>
         <nuxt-link v-for="article in sidebarArticles" :key="article.path" class="button" :to="article.path">
           {{ article.sidebarTitle || article.title }}
         </nuxt-link>
@@ -25,10 +32,7 @@
 
   export default {
     components: {SearchBar},
-    async asyncData ({
-      $content,
-      params,
-    }) {
+    async asyncData({$content, params}) {
       let path = params.pathMatch.replace(/\/$/, '')
 
       const article = await $content(path).fetch()
@@ -50,7 +54,7 @@
         sidebarArticles,
       }
     },
-    head () {
+    head() {
       return {
         title: this.article.title,
         meta: [
@@ -60,6 +64,17 @@
           {hid: 'apple-mobile-web-app-title', property: 'apple-mobile-web-app-title', content: this.article.title},
         ],
       }
+    },
+    computed: {
+      minTocLevel () {
+        let minTocLevel = 0
+        for (const item of this.article.toc) {
+          if (minTocLevel === 0 || minTocLevel > item.depth) {
+            minTocLevel = item.depth
+          }
+        }
+        return minTocLevel
+      },
     },
   }
 </script>
@@ -100,6 +115,28 @@
       min-width: 20%;
       display: flex;
       flex-direction: column;
+
+      .toc {
+        list-style: none;
+        padding-left: 0;
+        padding-bottom: 1em;
+        margin-bottom: 1em;
+        border-bottom: 1px solid var(--color-background-light);
+        transition: border-bottom-color 200ms;
+
+        .item {
+          display: block;
+          line-height: 1.3em;
+          padding: 0.2em 0;
+
+          @for $i from 1 through 6 {
+            &.indent-#{$i} {
+              padding-left: $i * 0.5em;
+              font-size: 0.9em;
+            }
+          }
+        }
+      }
 
       .button {
         margin-bottom: 0.2em;
