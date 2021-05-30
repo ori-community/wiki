@@ -1,3 +1,7 @@
+---
+title: Multiplayer
+---
+
 The randomizer also adds the possibility to play with other players! To play a multiplayer game, you will need to log in to [this website](https://wotw.orirando.com/). The connection uses [Discord](https://discord.com/) so please download it if you don't already have it.
 
 After login in, you will be able to create bingos and coop games. To make it work, you will have to [generate a seed](https://github.com/sparkle-preference/OriWotwRandomizerClient/wiki/Seed-generation) with the _Enable Netcode_ option activated. If it is still not working, you might have disabled the netcode in the randomizer [settings](https://github.com/sparkle-preference/OriWotwRandomizerClient/wiki/Settings).
