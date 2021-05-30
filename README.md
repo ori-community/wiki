@@ -36,6 +36,12 @@ Links to other articles must be absolute, e.g.:
 Tip: To replace all relative internal links with absolute ones, regexp-replace
 `([^!]\[[^\]]+\]\()(?!https)(?!/)([^\)]+)\)` with `$1/$2\)`.
 
+To add additional search keywords to a document, write an HTML comment at the beginning:
+
+```markdown
+<!-- some additional keywords -->
+```
+
 
 ### Content tags
 

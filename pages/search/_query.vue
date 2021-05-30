@@ -22,11 +22,53 @@
   export default {
     components: {SearchBar},
     async asyncData({$content, params}) {
-      const articles = mapContentPaths(await $content({deep: true}).search(params.query).fetch())
+      const terms = params.query.split(' ')
 
-      return {
-        articles: articles
-      }
+      const titleQuery = $content({deep: true}).search({
+        query: {
+          type: 'bool',
+          operator: 'and',
+          minimum_should_match: terms.length,
+          should: terms.map(term => ({
+            type: 'match',
+            field: 'title',
+            value: term,
+            prefix_length: 1,
+            fuzziness: 0,
+            extended: false
+          }))
+        }
+      })
+
+      const textQuery = $content({deep: true}).search({
+        query: {
+          type: 'bool',
+          operator: 'and',
+          minimum_should_match: terms.length,
+          should: terms.map(term => ({
+            type: 'match',
+            field: 'text',
+            value: term,
+            prefix_length: 1,
+            fuzziness: 0,
+            extended: false
+          }))
+        }
+      })
+
+      const [
+        titleArticles,
+        textArticles
+      ] = await Promise.all([titleQuery.fetch(),  textQuery.fetch()])
+      const articles = [...titleArticles, ...textArticles]
+
+      const uniqueArticles = articles.filter(
+        (article, index) => articles.findIndex(
+          a => a.path === article.path
+        ) === index
+      )
+
+      return {articles: uniqueArticles}
     },
     data: () => ({
       visible: true,
