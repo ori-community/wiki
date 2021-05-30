@@ -62,9 +62,7 @@
       return {
         title: this.article.title,
         meta: [
-          {hid: 'description', name: 'description', content: this.article.description},
           {hid: 'og:title', property: 'og:title', content: this.article.title},
-          {hid: 'og:description', property: 'og:description', content: this.article.description},
           {hid: 'apple-mobile-web-app-title', property: 'apple-mobile-web-app-title', content: this.article.title},
         ],
       }

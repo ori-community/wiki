@@ -11,18 +11,27 @@ export default {
     base: '/'
   },
 
-  // Global page headers: https://go.nuxtjs.dev/config-head
+  // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: 'ori-rando-wiki',
+    title: 'Timo\'s Blog',
+    titleTemplate: title => title ? `${title} - Ori Randomizer Wiki` : 'Ori Randomizer Wiki',
     meta: [
-      { charset: 'utf-8' },
-      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' }
+      {charset: 'utf-8'},
+      {name: 'viewport', content: 'width=device-width, initial-scale=1'},
+      {hid: 'description', name: 'description', content: 'Wiki for the Ori and the Will of the Wisps Randomizer'},
+      {hid: 'og:description', property: 'og:description', content: 'Wiki for the Ori and the Will of the Wisps Randomizer'},
+      {hid: 'og:type', property: 'og:type', content: 'website'},
+      {hid: 'og:url', property: 'og:url', content: 'https://ori-rando-wiki.github.io'},
+      {hid: 'og:title', property: 'og:title', content: 'Ori Randomizer Wiki'},
+      {hid: 'og:site_name', property: 'og:site_name', content: 'Ori Randomizer Wiki'},
+      {hid: 'og:image', property: 'og:image', content: 'https://ori-rando-wiki.github.io/icon.png'},
+      {hid: 'apple-mobile-web-app-title', property: 'apple-mobile-web-app-title', content: 'Ori Randomizer Wiki'},
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
-    ]
+      {rel: 'icon', type: 'image/x-icon', href: '/favicon.ico'},
+    ],
   },
+
 
   generate: {
     fallback: true,
