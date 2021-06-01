@@ -13,6 +13,7 @@ Starting a second aerial combo after the first one won’t give you any hover ef
 With Hammer, you need to start with an up slash before starting your horizontal combo if you want to benefit from it.
 
 <youtube-video id="dBdisYeBdQ4"></youtube-video>
+<youtube-video id="9YkKbleqDnk"></youtube-video>
 
 ## Up slash
 
@@ -20,3 +21,4 @@ When doing an up slash, Ori gains a bit of height. This can be used to reach hig
 If you try to do a second up slash before touching the ground, you will not gain any height from it.
 
 <youtube-video id="Y-Ugzt2GhkE"></youtube-video>
+<youtube-video id="Lsm3OS8oTSs"></youtube-video>
