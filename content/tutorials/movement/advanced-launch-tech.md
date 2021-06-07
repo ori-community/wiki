@@ -44,6 +44,12 @@ Like Terrawalk, if you use launch on a slope in the ceiling, you will maintain s
 
 <youtube-video id="fCEsuef9EUQ"></youtube-video>
 
+## Double Launch
+
+If you use Launch while you are running on a slope, you can use a second Launch midair without having to reset your aerial options. If the slope isn't steep enough, you won't get another Launch midair.
+
+<youtube-video id="_2DaS6Rri30"></youtube-video>
+
 ## Launch Glide
 
 This trick is exclusive to keyboard and mouse control, but you can [bind](/features/keybinds) your second stick as a mouse if you want to use it on a controller.
