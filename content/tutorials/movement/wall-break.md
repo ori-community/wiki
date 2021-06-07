@@ -12,7 +12,7 @@ Most breakable walls in this game can only be destroyed from one side but it is 
 ## Hammer
 
 If you stick to the wall and use hammer you will be able to break small walls, this does not work on the bigger barriers.
-You can hit the barrier more consistently if you combine it with [slowdown](/tutorials/slowdown).
+You can hit the barrier more consistently if you combine it with slowdown.
 
 <youtube-video id="3jVJEs8DfqQ"></youtube-video>
 

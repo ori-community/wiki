@@ -68,7 +68,7 @@
       }
     },
     computed: {
-      minTocLevel () {
+      minTocLevel() {
         let minTocLevel = 0
         for (const item of this.article.toc) {
           if (minTocLevel === 0 || minTocLevel > item.depth) {

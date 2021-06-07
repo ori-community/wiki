@@ -4,7 +4,7 @@ title: How to start
 
 After [installing the randomizer](/installation), you need to get a .wotwr file. These files contain the necessary
 information for your randomized playthrough, like the location of each item. You can generate these files yourself by
-using the [seed generator](/seed-generation).
+using the [seed generator](/features/seed-generation).
 
 For beginners, we recommend to play with these settings. You can choose to disable Force Wisps which is
 a [goal mode](/features/goal-modes) preventing you from entering the last Willow room before you collected all 5 wisps.

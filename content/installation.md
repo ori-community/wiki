@@ -19,13 +19,13 @@ install the randomizer. Remember where you installed it, since you will be launc
 
 Since the randomizer needs to launch Ori and the Will of the Wisps, it needs to know where your steam installation
 folder is. If you installed Steam in a non-default location, the randomizer installer will ask you this path. You can
-change the Steam path later in your [settings](/settings) if needed.
+change the Steam path later in your [settings](/features/settings) if needed.
 
 
 ## Windows Store
 
 The randomizer should automatically detect that you have the Windows store version of the game and prompt
-you to install the randomizer for it. If it does not, after installing, you can open [the settings](/settings) by
+you to install the randomizer for it. If it does not, after installing, you can open [the settings](/features/settings) by
 either clicking the Settings button or launching RandoSettings.exe from the randomizer installation folder. Look for
 the 'Use Windows Store' option.
 

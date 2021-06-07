@@ -39,6 +39,6 @@ This can be done with Launch from the ground
 
 <youtube-video id="UImKJkabkgU"></youtube-video>
 
-If you don't have Launch, you will have to rely on glide, jumps and dash. You can hit the skulls on the ground with your sword in order to [aerial reset](/tutorials/aerial-reset).
+If you don't have Launch, you will have to rely on glide, jumps and dash. You can hit the skulls on the ground with your sword in order to [aerial reset](/tutorials/movement/aerial-reset).
 
 <youtube-video id="3MnOID88M6k"></youtube-video>

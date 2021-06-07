@@ -14,9 +14,9 @@ required. These options are added to the logic:
 - One damage boost per path, regardless of the amount of damage (taking one damage which reduce your health by 3 would
   be in logic but taking two damages which each reduce your health by 1 is not in logic despite the fact that you took
   less damage).
-- [Sword or Hammer aerial combo in order to hover](/tutorials/weapon-movement).
-- [Sword or Hammer up attack for extra height](/tutorials/weapon-movement).
-- [Bow to go through darkness in Depths](/tutorials/light-sources).
+- [Sword or Hammer aerial combo in order to hover](/tutorials/movement/weapon-movement).
+- [Sword or Hammer up attack for extra height](/tutorials/movement/weapon-movement).
+- [Bow to go through darkness in Depths](/tutorials/movement/light-sources).
 
 The logic expects you to have found Regenerate to enter Woods, Pools, Depths, Baur, Wastes and Willow but unlike in
 [Moki](/logic-groups/moki), there are no HP requirements to enter them in Gorlek.
