@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1623094730",layout:"default",error:a,serverRendered:true,routePath:"\u002Ftutorials\u002Fmovement\u002Flight-sources",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"25198693"}}}}(null));
