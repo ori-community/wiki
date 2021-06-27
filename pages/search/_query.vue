@@ -190,7 +190,11 @@
     .abilities {
       padding-bottom: 0.5em;
       display: grid;
-      grid-template-columns: repeat(auto-fill, minmax(8em, 1fr));
+      grid-template-columns: 1fr 1fr;
+
+      @include screen(sm) {
+        grid-template-columns: 1fr;
+      }
     }
   }
 </style>
