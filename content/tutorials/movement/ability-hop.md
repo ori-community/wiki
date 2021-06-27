@@ -1,13 +1,15 @@
 ---
 title: Ability hop
-tags:
-- movement-tutorial
-- sentry
-- blaze
-- flash
-- bow
-- shuriken
-- spike
+groups:
+  - movement tutorials
+info:
+  abilities:
+    - sentry
+    - blaze
+    - flash
+    - bow
+    - shuriken
+    - spike
 ---
 
 When you use Sentry, Blaze or Flash, Ori makes a little hop.

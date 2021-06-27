@@ -1,10 +1,12 @@
 ---
 title: Ability swap
-tags:
-- tutorial
-- sentry
-- blaze
-- flash
+groups:
+  - movement tutorials
+info:
+  abilities:
+    - sentry
+    - blaze
+    - flash
 ---
 
 If you unequip Sentry, Blaze or Flash a bit after using them you will get a bigger hop than usual.

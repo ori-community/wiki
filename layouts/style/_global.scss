@@ -13,7 +13,10 @@ body {
   scroll-behavior: smooth;
   background-color: var(--color-background);
   color: var(--color-foreground);
+}
 
+html {
+  overflow-y: scroll;
 }
 
 h1,
