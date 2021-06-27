@@ -1,8 +1,6 @@
 ---
 title: Ability swap
-groups:
-  - movement tutorials
-info:
+tags:
   abilities:
     - sentry
     - blaze

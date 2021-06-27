@@ -120,7 +120,7 @@
       return {
         articles,
         allAbilities: new Set(allArticles.reduce((acc, article) => {
-          return acc.concat(article.info?.abilities ?? [])
+          return acc.concat(article.tags?.abilities ?? [])
         }, [])),
       }
     },
@@ -135,7 +135,7 @@
         let articles = this.articles
         if (this.$route.query.ability) {
           articles = articles.filter(article => {
-            const abilities = article.info?.abilities ?? null
+            const abilities = article.tags?.abilities ?? null
 
             if (abilities === null) {
               return false

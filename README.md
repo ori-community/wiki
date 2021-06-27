@@ -55,7 +55,7 @@ title: Document Title
 # Title to use in sidebar. Defaults to title.
 sidebarTitle: Home
 
-meta:
+tags:
   # List all abilities that are referenced in this document.
   # Used for advanced search. Use lower case names.
   abilities:
@@ -65,7 +65,7 @@ meta:
 
   # If this document is tied to or only applicable to specific
   # in-game zones, reference them here.
-  zones:
+  zones: # Currently unused
   - marsh
   - pools
 ```

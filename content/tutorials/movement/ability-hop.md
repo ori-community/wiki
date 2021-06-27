@@ -1,8 +1,6 @@
 ---
 title: Ability hop
-groups:
-  - movement tutorials
-info:
+tags:
   abilities:
     - sentry
     - blaze
