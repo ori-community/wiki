@@ -2,8 +2,7 @@
 title: Dash swim
 tags:
 - location-tutorial
-  abilities:
- - water-dash
+- water-dash
 ---
 
 In order to access the lower part of Hollow, you normally need Bow in order to drain the water on the way to dash tree. This water stay dirty, even if you found Clean Water. However, the lower part of Hollow isn't flooded so you can swim through the dirty water and get all its pickups without having to drain the water.

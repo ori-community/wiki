@@ -2,10 +2,9 @@
 title: Silent swim
 tags:
 - location-tutorial
-  abilities:
-  - water-dash
-  - bash
-  - regenerate
+- water-dash
+- bash
+- regenerate
 ---
 
 In order to access Silent Woods from Kwolok's Hollow, you normally need to clean the water but it is actually possible to swim through the dirty water if you have Regenerate and enough energy and health. The amount of health you will need depends on the difficulty you are playing on. This amount can be greatly reduced by having Water Dash or the Resilience shard. You can also use [godmode]((/tutorials/movement/godmode) to remove the health and energy requirement entirely.
