@@ -5,7 +5,7 @@ title: Installation
 ## Prerequisites
 
 The OriWotw Randomizer requires the latest version of the game on PC (either windows store or steam is
-fine). It also requires Java 8 for seed generation.
+fine).
 
 
 ## Download

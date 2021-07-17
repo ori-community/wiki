@@ -4,52 +4,39 @@ tags:
 - feature
 ---
 
-To get started, you will need to download Java version 8 [here](https://www.java.com/en/download/manual.jsp). Make sure you have Java 8 specifically since it won't work with other versions of Java. After downloading Java, you will need to restart your computer. Once Java is fully installed, launch SeedGen.jar from the randomizer installation folder.
+If you use [this link](https://wotw.orirando.com/seedgen) you will access the seed generator which let you generate brand new seeds. There is a bunch of options but don't worry, this page will go through each of them.
 
-## Main tabulation
-This is where most of the options are. Let’s go through each of them.
+## Presets
+Presets are prebuild general options which you can use safely in order to generate seeds. Once you selected the presets you want to use, click on the Apply Presets button. This will override your previous settings. If you want to add those presets to the settings you already chose for yourself, hold Ctrl which will change the Apply Presets button to Merge Presets.
 
-## Logic groups
-The logic group is basically the difficulty of the seed. By default it’s set to the Moki group. Moki logic is intended for newer players who have finished the game at least once. By enabling a logic group, you will add more paths to the logic.
-* Gorlek adds more advanced movement skills like weapon hovering and damage boosts.
-* Glitched paths will add glitches to the logic. Each logic group has its own set of glitches (except for Moki which is glitchless).
-* Unsafe paths will add paths that have not been sorted in any logic group. There is a large range of difficulties in unsafe paths, as it includes any paths the logic creators have found that don’t fit into one of the current logic group. Although it’s unlikely, it is also possible that some paths can result in softlocks as these paths are not verified by the path validator.
+Here is a quick description of each presets:
+* QOL apply the following headers: Skippable Cutscenes, Spawn Tuley, No Branch, Autoplants. Just quality of life improvement which greatly reduces the time you'll spend in cutscenes and dialogues.
+* Hints apply the following headers: Zone Hints, Key Hints. This enable the [hints](/features/hints) feature.
+* Moki enables the [Moki](/logic-groups/moki) paths, the same headers as QOL and Hints plus these headers: Teleporters, Opher Upgrades, Black Market, Spawn with Sword, Progress Helper. This is the recommended settings for players who finished the game in casual settings.
+* Gorlek enables the [Moki](/logic-groups/moki) and [Gorlek](/logic-groups/gorlek) paths, the same headers as QOL and Hints plus these headers: Teleporters, Opher Upgrades, Black Market, Progress Helper. This is the recommended settings for more advanced players who know a bit more tricks. Check the [Gorlek](/logic-groups/gorlek) page to learn what the randomizer might expects when playing with these settings.
+* Gorlek_Glitch enables the [Moki](/logic-groups/moki), [Gorlek](/logic-groups/gorlek), Sword and Hammer [sentry jumps](/tutorials/movement/sentry-jumps), [Shuriken break](/tutorials/movement/wall-break), [Sentry burn](/tutorials/movementsentry-as-a-fire-source) and [Remove kill plane](/tutorials/location/feeding-ground-skip) paths and the same headers as Gorlek. This is for players who are more familiar with the game and want to use easy to learn glitches. 
+* Rspawn apply the [moki](/logic-groups/moki) and [gorlek](/logic-groups/gorlek) paths, the same headers as QOL and Hints plus the Teleporters, Opher Upgrades, Black Market, Progress Helper and Better Random Spawn header. This add teleporters to the item pool and remove some doors which you can only oppen from one side in order to make random spawn a better experience.
 
-If you want to learn more about what the each group wan expect from you, please check the [logic guide](https://github.com/sparkle-preference/OriWotwRandomizerClient/wiki/Logic-groups).
+## Paths
+Paths dictate which skills you need in order to access different items. Some of them can be viewed as a difficulty settings and the other one will add more paths to the difficulty you selected. The most important paths, which can be viewed as the difficulty, are:
+* [Moki](/logic-groups/moki). Every paths in this difficulty are design towards the players who just played Ori and the Will of the Wisps casually. You will be able to finish a seed with these paths right after finishing the vanilla game and won't have to learn anything new.
+* [Gorlek](/logic-groups/gorlek). These paths are for more advanced players and ask for more precise utilisation of your moveset as well as knowing some easy to learn movement tricks.
+* [Unsafe](/logic-groups/unsafe). This is a collection of unverified paths, these paths are in this difficulty because it's too difficult for the current designed difficulties. Be careful when using this difficulty: even if it should be rare, since these paths aren't verified it's not impossible that a seed generated with the unsafe paths isn't beatable.
 
+The other paths adds glitches to the otherwise glitch-free difficulty paths. Note that there isn't any glitches defined in the Moki difficulty so adding those paths to Moki won't change anything:
+* [Glitched](/logic-groups/glitched). Enable all glitches from your current difficulty.
+* [Sentry jumps](/tutorials/movement/sentry-jumps). Add sentry jumps paths with both sword and hammer.
+* Sword Sentry Jump adds sentry jumps paths, but only with sword.
+* Hammer Sentry Jump adds sentry jumps paths, but only with hammer.
+* Shuriken Break adds [breaking walls](/tutorials/movement/wall-break) from the wrong side by using shuriken.
+* Sentry burns adds using [sentry as a fire source](/tutorials/movementsentry-as-a-fire-source) which let you melt ice and activate lanterns by using sentry instead of grenade.
+* Remove kill plane adds the possibility to [skip the cat and mouse in feeding ground](/tutorials/location/feeding-ground-skip) in logic.
 
-## Goal Modes
-Goal modes are restrictions which prevent you from entering the final boss room before you have completed your goal. If nothing is checked, you will be able to enter this room after destroying the corrupted hearts, like in a normal playthrough. You can learn more about goal modes [here](https://github.com/sparkle-preference/OriWotwRandomizerClient/wiki/Goal-modes).
+## Goals
+Goals are restrictions which prevent you from entering the final boss room before you have completed your goal. If nothing is checked, you will be able to enter this room after destroying the corrupted hearts, like in a normal playthrough. You can learn more about goal modes by hovering your mouse over the buttons of by reading [this page](/features/goal-modes).
 
-## Spawn Options
-These options affects state from the game
-* Spawn with Sword gives you the Sword (Spirit Edge) skill from the start. If this option is unchecked, Sword will be included in the item pool and, like every other pickup, will be placed in a random pickup location.
-* Rainy Marsh starts the game in the state just after the prologue. The big change of this option is that you will need to fight Howl. Otherwise the game begins in the state after the Howl fight.
-* Remove KS doors starts the game with every keystone door already opened.
+## Headers
+Hearders are a functionality of this randomizer will let you change a lot of things. You can hover your mouse over each buttons to have a short description of what each header do. There is also a more detailed explanation on what headers are at [this page](/features/headers).
 
-
-## Spawn Area
-Choose where you want to start your seed from. All seeds will start on a Spirit Well. Checking the Random spawn option will make you spawn at one spirit well at random. If your starting point isn't Marsh, you will start with some random items, at least one of which is used for progression.
-
-## Miscellaneous options
-These options change the item pool of the randomizer
-* Launch on Seir places the skill Launch on the Seir pickup so you will need to get all wisps before getting Launch. Launch won't appear on another item.
-* [Zone Hints](https://github.com/sparkle-preference/OriWotwRandomizerClient/wiki/Hints) replaces the pickup you get by buying the map from Lupo in each area with a hint telling you how many key items are in the area. Lupo and Opher will also sell hints giving the area in which some skills are located.
-* Items on Quests gives you items when progressing and completing quests. Without this option, quests won't give you anything besides the quest's object such as the wisps.
-* [Bonus Items](https://github.com/sparkle-preference/OriWotwRandomizerClient/wiki/New-items) adds rando exclusive items like an extra air dash, health and energy regen, and weapon upgrades. Weapon upgrades are sold by Opher.
-* Teleporters add items in the item pool which unlock teleporters. The randomizer can ask you to activate a teleporter through one of these items and teleport to that newly unlocked teleporter to continue the seed.
-* Race Mode generates a spoiler-free version of the seed. It also disables some function like the logic filter.
-* Enable Netcode activates the communication with the randomizer server, which is required for bingo autotracking and coop games. Learn more about these game modes [here](https://github.com/sparkle-preference/OriWotwRandomizerClient/wiki/Multiplayer).
-
-
-## Headers tabulation
-Headers are game mods which can do a lot of things. By default, you will have these ones:
-* 3-line bingo: prints updates when you have completed a line in bingo and sets the game as completed when you get 3 lines. Enable Netcode if you want to use this header
-* Better random spawn: opens some doors by default, making spawning from other teleporters than Marsh work better.
-* Launch from Bingo: gives you the Launch skill after completing 2 bingo lines. Enable Netcode if you want this header to work.
-* Quest helper: adds a textbox which shows you which quests you are missing for the Force Quests goal mode when pressing Ctrl+Alt+1
-* Skippable cutscenes: skips several cutscenes which aren't skipped normally by the randomizer.
-You can also create a folder called headers in your randomizer installation folder. If you place a randomizer header file (.wotwrh) in this folder, the seed generator will load it and you will be able to enable the headers within from the header tab.
-
-## Advanced tabs
-This is the same thing as a header, but you will be able to write your own header which will be used in the seed you generate. To learn how to write an header, check [this document](https://docs.google.com/document/d/1IR1DHnbtO8rydCLEgFh-yp3iRkzZbFAG-EmR5hxrfmU/edit) 
+## Generator
+This tab have miscellaneous option. Here, you can enter a seed which will be used for the seed generation or enables options such as playing on hard mode, removing the spoiler from the seed file or enabling [multiplayer](/features/multiplayer).

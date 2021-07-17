@@ -10,9 +10,9 @@ Though they are not related to the randomizer, the Ori speedrun community do hav
 * Multibinds are allowed but macros are not (having multiple actions on the same button is allowed but every action has to resolve on the same frame).
 * You can’t bind the same action (dash, jump…) to more than 4 buttons (because the ingame rebinding tool doesn’t allow it either)
 
-Changing up your binds can be really useful, especially if you are playing in [Glitched](https://github.com/sparkle-preference/OriWotwRandomizerClient/wiki/Glitched) or if you are playing on a controller but want to use [randomizer's special commands](https://github.com/sparkle-preference/OriWotwRandomizerClient/wiki/Randomizer's-special-commands) more easily.
+Changing up your binds can be really useful, especially if you are playing in [Glitched](/logic-groups/glitched) or if you are playing on a controller but want to use [randomizer's special commands](/features/special-commands) more easily.
 
-The most used binds are [Alt+P](https://github.com/sparkle-preference/OriWotwRandomizerClient/wiki/Randomizer's-special-commands), [sentry jumps](https://github.com/sparkle-preference/OriWotwRandomizerClient/wiki/Sentry-jump) and [grenade jump](https://github.com/sparkle-preference/OriWotwRandomizerClient/wiki/Grenade-jumps).
+The most used binds are [Alt+P](/features/special-commands), [sentry jumps](/tutorials/movement/sentry-jumps) and [grenade jump](/tutorials/movement/greande-jumps).
 
 
 ## Keyboard

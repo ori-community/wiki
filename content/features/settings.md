@@ -6,9 +6,11 @@ tags:
 
 To open the settings, launch RandoSettings.exe. This will open a window with a bunch of options which you can check to enable:
 * Cursor lock: Locks the cursor in the game window, which prevents the mouse from moving off screen. Useful if you are playing in windowed display mode or with multiple screens.
+* Always Show Keystones: Display your keystone count in the top left corner at all time. Without this option, it would only appears when you are near a door.
 * Invert Swim Speeds: In the vanilla game, holding the jump button makes Ori swims faster. With this option, Ori will be swimming at maximum speed by default and will be slowing down when holding your jump button.
 * Disable Quests Snap on Mouseover: In the vanilla game, if you are hovering over a quest on the quest list next to the map, the game will scroll to the location of this quest. With this option, the game will require you to press your 3rd ability button (the bottom left one in the game UI) in order to scroll the map to the quest location instead of simply hovering the quest's name.
-* Disable Debug Controls: Disable the debug functionalities when playing the randomizer if you have them enabled. You can still toggle the debug mode while playing the randomizer by pressing Ctrl+Alt+D
+* Disable Debug Controls: Disable the debug functionalities when playing the randomizer if you have them enabled. You can still toggle the debug mode while playing the randomizer by pressing [Ctrl+Alt+D](/features/special-commands)
+* Ranom Cureency Names: When collecting Spirit Light, the "Spirit Light" text will be a random currency name. This does not impact the actual gameplay.
 * Mouse Aiming Grapple: In the vanilla game, if you want to use grapple on something, you need to hold the direction toward this object to grapple it. With this enabled, you will be aiming with the mouse rather than with your directional inputs.
 * Mouse Aiming Burrow: In the vanilla game, when using burrow you control Ori by using your directional inputs. With this option, you will control Ori's movement with your mouse which lets you move in 360° rather than being limited to the 4 directions of your keyboard.
 * Mouse Aiming Water Dash: In the vanilla game, when using water dash you control Ori by using your directional inputs. With this option, you will control Ori's movement with your mouse which lets you move in 360° rather than being limited to the 4 directions of your keyboard.
