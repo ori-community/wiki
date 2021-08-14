@@ -2,9 +2,9 @@
 title: Advanced launch tech
 tags:
   abilities:
-  	- launch
-  	- sword
-  	- hammer
+    - launch
+    - sword
+    - hammer
 ---
 
 You probably already know that Launch is a pretty powerful skill but have you seen its true potential? There is a bunch of different techs you can use to access difficult pickups or simply going faster.
