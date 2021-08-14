@@ -1,7 +1,6 @@
 ---
 title: Advanced launch tech
 tags:
-- movement-tutorial
   abilities:
   	- launch
   	- sword
