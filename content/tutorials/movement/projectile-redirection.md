@@ -1,14 +1,14 @@
 ---
 title: Projectile redirection
 tags:
-- movement-tutorial
-- deflector
-- sword
-- hammer
-- grenade
-- sentry
-- dash
-- launch
+  abilities:
+    - deflector
+    - sword
+    - hammer
+    - grenade
+    - sentry
+    - dash
+    - launch
 ---
 
 Changing the direction of a projectile lets you break walls that can not be broken otherwise. Even if it is usually done by bashing a projectile, there are other options for it.

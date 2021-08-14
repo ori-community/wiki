@@ -1,10 +1,10 @@
 ---
 title: Bash grenade zoom
 tags:
-- movement-tutorial
-- bash
-- grenade
-- grapple
+  abilities:
+    - bash
+    - grenade
+    - grapple
 ---
 
 If you own Grapple, holding grenade right after releasing a bash will prevent Ori from losing bash's speed.

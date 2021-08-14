@@ -1,15 +1,13 @@
 ---
 title: Aerial reset
 tags:
-- movement-tutorial
-- sword
-- jump
-- dash
-- launch
-- glide
-- grapple
-- burrow
-- portal
+  abilities:
+    - sword
+    - dash
+    - launch
+    - glide
+    - grapple
+    - burrow
 ---
 
 When in the air, you have multiple movement options: double jump, dash and launch. After using each once, you can not use them again before you reset it. The most common ways to reset them are touching ground, walls or bashing something.

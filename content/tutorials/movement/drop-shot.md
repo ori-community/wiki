@@ -1,8 +1,8 @@
 ---
 title: Drop shot
 tags:
-- movement-tutorial
-- bow
+  abilities:
+    - bow
 ---
 
 It is possible to let an arrow pass through the floor. This is useful in order to open the path from Inkwater Marsh to Kwolok's Hollow without draining the water.

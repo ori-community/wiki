@@ -1,10 +1,10 @@
 ---
 title: Weapon jumps
 tags:
-- movement-tutorial
-- sword
-- hammer
-- jump
+  abilities:
+    - sword
+    - hammer
+    - double jump
 ---
 
 Weapon jumps let you get more height from your double jump than usual. You can do them with both Sword or Hammer.

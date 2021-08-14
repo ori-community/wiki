@@ -1,9 +1,9 @@
 ---
 title: Grenade jumps
 tags:
-- movement-tutorial
-- grenade
-- jump
+  abilities:
+    - grenade
+    - double jump
 ---
 
 Grenade jumps are a great way to gain height, especially if you have multiple jumps. To do them, you have to press jump and grenade on the same frame.

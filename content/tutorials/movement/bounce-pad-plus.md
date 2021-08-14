@@ -1,10 +1,10 @@
 ---
 title: Bounce pad
 tags:
-- movement-tutorial
-- grenade
-- sword
-- hammer
+  abilities:
+    - grenade
+    - sword
+    - hammer
 ---
 
 You can get more height than usual when jumping on a bounce pad and using some skills.

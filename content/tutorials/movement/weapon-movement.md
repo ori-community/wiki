@@ -1,9 +1,9 @@
 ---
 title: Weapon movement
 tags:
-- movement-tutorial
-- sword
-- hammer
+  abilities:
+    - sword
+    - hammer
 ---
 
 ## Hover

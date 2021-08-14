@@ -1,7 +1,8 @@
 ---
 title: Kwolok's crushers without Water Dash
 tags:
-- location-tutorial
+  zones:
+    - pools
 ---
 
 In order to reach the Kwolok's fight in Luma Pools, you are supposed to use Water Dash in order to pass through some crushers but it's actually possible to pass them through normal swimming

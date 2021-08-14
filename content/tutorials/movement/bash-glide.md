@@ -1,10 +1,10 @@
 ---
 title: Bash glide
 tags:
-- movement-tutorial
-- bash
-- glide
-- jump
+  abilities:
+    - bash
+    - glide
+    - double jump
 ---
 
 When you bash something, Ori gets a boost of speed which slowly disappears.

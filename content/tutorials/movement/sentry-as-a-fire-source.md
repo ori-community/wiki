@@ -1,8 +1,8 @@
 ---
 title: Sentry as a fire source
 tags:
-- movement-tutorial
-- sentry
+  abilities:
+    - sentry
 ---
 
 In a normal playthrough, you need Grenade to melt ice and activate lanterns. But it is actually possible to do the same with sentry.

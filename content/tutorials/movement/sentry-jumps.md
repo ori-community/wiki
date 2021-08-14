@@ -1,11 +1,10 @@
 ---
 title: Sentry jumps
 tags:
-- movement-tutorial
-- sentry
-- jump
-- hammer
-- sword
+  abilities:
+    - sentry
+    - hammer
+    - sword
 ---
 
 Sentry jump is one of the biggest glitch in Ori and the Will of the Wisps. By using an upslash with either sword or hammer and a sentry, you will make a big jump. You can use it while on the ground or mid-air but the timing is different for every variation.

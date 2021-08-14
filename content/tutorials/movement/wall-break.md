@@ -1,11 +1,11 @@
 ---
 title: Wall break
 tags:
-- movement-tutorial
-- hammer
-- sentry
-- shuriken
-- spear
+  abilities:
+    - hammer
+    - sentry
+    - shuriken
+    - spear
 ---
 
 Most breakable walls in this game can only be destroyed from one side but it is possible to break them from the wrong side by using certain skills.

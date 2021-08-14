@@ -1,9 +1,9 @@
 ---
 title: Light sources
 tags:
-- movement-tutorial
-- bow
-- grenade
+  abilities:
+    - bow
+    - grenade
 ---
 
 In Mouldwood Depths (before defeating Mora) and in the cave at Glades, you need a light source in order to navigate through the darkness. The game expects you to either use the fireflies or flash but there is other abilities which can be used as a light source.

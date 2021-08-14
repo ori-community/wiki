@@ -1,10 +1,10 @@
 ---
 title: Chain bash
 tags:
-- movement-tutorial
-- bash
-- glide
-- jump
+  abilities:
+    - bash
+    - glide
+    - double jump
 ---
 
 When you bash something, you can cancel the momentum it gives you in order to bash the same thing again. This can be used in order to gain height in order to access pickups.

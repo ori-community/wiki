@@ -1,9 +1,8 @@
 ---
 title: God mode
 tags:
-- movement-tutorial
-- bash
-- invulnerability
+  abilities:
+    - bash
 ---
 
 God mode is a state which prevent you from taking damages. To enable it, you need to drown while using bash.

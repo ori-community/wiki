@@ -1,8 +1,9 @@
 ---
 title: Wavedash
 tags:
-- movement-tutorial
-- regen
+  abilities:
+    - regenerate
+    - blaze
 ---
 
 One of the way for getting a lot of horizontal speed is wavedashes. In order to perform it, you need dash, a wall and another ability. In order to perform a wavedash, you want to dash towards a wall and then hold both the opposite direction and your other ability. The wall can also be other element, like a life flower, since the important part is having the animation where Ori stick themself to a wall.

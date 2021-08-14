@@ -1,7 +1,8 @@
 ---
 title: Hornbug skip
 tags:
-- location-tutorial
+  zones:
+    - hollow
 ---
 
 Just after the Kwolok's Hollow TP, you will reach the hornbug arena. You can skip its boss fight if you are not touching the ground between these arrows (this include the ground in the spikes and OOB).

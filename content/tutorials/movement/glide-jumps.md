@@ -1,9 +1,8 @@
 ---
 title: Glide jumps
 tags:
-- movement-tutorial
-- glide
-- jump
+  abilities:
+    - glide
 ---
 
 With glide, you can make a jump mid-air without a double jump. This can be useful when you lack vertical movement options. Glide jumping does not use your double jump so you can view it as an additional jump.

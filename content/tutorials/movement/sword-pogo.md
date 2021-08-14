@@ -1,8 +1,8 @@
 ---
 title: Sword pogo
 tags:
-- movement-tutorial
-- sword
+  abilities:
+    - sword
 ---
 
 When doing a down attack with Sword on an enemy, you will get a pogo jump which gives you a bit of height.

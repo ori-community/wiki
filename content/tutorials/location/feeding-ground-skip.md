@@ -1,7 +1,9 @@
 ---
 title: Feeding ground skip
 tags:
-- location-tutorial
+  zones:
+    - waste
+    - woods
 ---
 
 Feeding ground have three different states:
