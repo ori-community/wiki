@@ -64,9 +64,9 @@ Unsafe logic is also removing all requirement from the Default and Advanced diff
 All the other paths options are related to glitches and will only be added in logic if you are playing in the difficulty which enable them or in the difficulty above.
 - [Sword Sentry Jump](/tutorials/movement/sentry-jumps) is a glitch which let you get a lot of height by combining Sword and Sentry. This path add grounded sentry jumps using Sword in Advanced and above.
 - [Hammer Sentry Jump](/tutorials/movement/sentry-jumps) is a glitch which let you get a lot of height by combining Hammer and Sentry. This path add grounded sentry jumps using Hammer in Advanced and above.
-- [Shuriken Break](/tutorials/movement/wall-break#Shuriken) is a way to break wall from the wrong side by clipping shuriken into walls. This path add them in Advanced and above.
-- [Sentry Break](/tutorials/movement/wall-break#Sentry) is a way to break wall from the wrong side by using Sentry. This path add them in Unsafe.
-- [Spear Break](/tutorials/movement/wall-break#Spear) is a way to break small wall from the wrong side by clipping Spear into walls. This path add them in Unsafe.
-- [Hammer Break](/tutorials/movement/wall-break#Shuriken) is a way to break wall from the wrong side by using Hammer. This path add them in Unsafe.
+- [Shuriken Break](/tutorials/movement/wall-break#shuriken) is a way to break wall from the wrong side by clipping shuriken into walls. This path add them in Advanced and above.
+- [Sentry Break](/tutorials/movement/wall-break#sentry) is a way to break wall from the wrong side by using Sentry. This path add them in Unsafe.
+- [Spear Break](/tutorials/movement/wall-break#spear) is a way to break small wall from the wrong side by clipping Spear into walls. This path add them in Unsafe.
+- [Hammer Break](/tutorials/movement/wall-break#shuriken) is a way to break wall from the wrong side by using Hammer. This path add them in Unsafe.
 - [Sentry Burn](/tutorials/movement/sentry-as-a-fire-source) is using Sentry as a way to activate lanterns and melting ice. This path add them in Advanced and above.
 - [Remove Kill Plane](/tutorials/location/feeding-ground-skip) is a way to disable the kill plane in Feeding Grond, which let you access Weeping Ridge without collecting the wisps. This path add them in Advanced and above.
