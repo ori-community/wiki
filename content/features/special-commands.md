@@ -16,7 +16,7 @@ The randomizer adds a few new commands you can activate by pressing multiple key
 * Ctrl + Alt + C: Show current coordinates
 * Ctrl + Alt + N: Toggles showing location names in spoiler filter (hold L in map)
 
-By using the Progress Helper [header](/features/headers), you will also add three special commands which track which trees, wisps and quests you completed so far:
+By using the Progress Helper [header](/seedgen/headers), you will also add three special commands which track which trees, wisps and quests you completed so far:
 * Ctrl + Alt + 1: Show which trees you already collected and which one you still need to collect
 * Ctrl + Alt + 2: Show which wisps you already collected and which one you still need to collect
 * Ctrl + Alt + 3: Show which quests you already completed. Unfinished quests will show up as well with a short description of the quest

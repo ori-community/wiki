@@ -7,7 +7,7 @@ information for your randomized playthrough, like the location of each item. You
 using the [seed generator](https://wotw.orirando.com/seedgen). You can find instruction on how to use the seed generator [here](https://wotw.orirando.com/seedgen)
 
 For beginners, we recommend to play with the Moki preset and the All Wisps goal. You can choose to disable All Wisps which is
-a [goal mode](/features/goal-modes) preventing you from entering the last Willow room before you collected all 5 wisps.
+a [goal mode](/seedgen/goals) preventing you from entering the last Willow room before you collected all 5 wisps.
 
 After you get your first .wotwr file, you want to double click on it. It should ask you which program you want to use in
 order to open this type of file. Choose to browse for more apps on your computer and search the file WotwRando.exe which

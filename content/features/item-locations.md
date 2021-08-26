@@ -4,7 +4,7 @@ tags:
 - feature
 ---
 
-There are 377 item locations in the entire game. Depending on your [seed generation](/features/seed-generation) settings, this number might change.
+There are 377 item locations in the entire game. Depending on your [seed generation](/seedgen) settings, this number might change.
 * 14 Spirit Trees (Skill Trees)
 * 24 Life Fragments (HC or Health Cell)
 * 24 Energy Fragments (EC or Energy Cell)
