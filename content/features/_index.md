@@ -8,7 +8,7 @@ Likewise, Skill Trees don’t always give you a skill, so you might find a Gorle
 
 The item placement however is not completely random: there is an algorithm or logic to the chaos.
 This ensures that every playthrough is beatable by placing each progression item at a location you will be able to reach.
-For more information, you can read the [logic guide](/logic-groups).
+For more information, you can read the [paths sections of the seed generation](/seedgen/paths).
 This mod also adds other functionality to the game. Click on the links below to learn more about them.
 
 <page-list by-path="/features"></page-list>
