@@ -25,7 +25,7 @@ Here is a description of every headers prebuild in the seed generator:
 * No KS Doors: All Keystone doors start open.
 * Teleporter Zone Hints: Lupo's maps give hints about how many teleporters there is in the current area. Wood's hints and Glades' hints can be bought from Lupo in Glades. This header is compatible with the Zone Hints header.
 * No Combat: Remove all combat oriented sequence like Shrine and boss fights. This gives a new access to Baur's Reach from Glades since the fighting room is already completed. Shrine's pickups are floating above the Shrine themselves and can be collected before starting the Shrine.
-* No Launch: Removes Launch from the game. It is not recommended to use this header if you play in the [Default](/seedgen/paths#default) difficulty since you won't be able to reach some items and the Shriek's fight without higher difficulties paths.
+* No Launch: Removes Launch from the game. It is not recommended to use this header if you play in the [Moki](/seedgen/paths#moki) difficulty since you won't be able to reach some items and the Shriek's fight without higher difficulties paths.
 * 3-Line Bingo utilities: This is an header which can only be used when playing [bingo](/features/multiplayer). Set the game as completed once you completed 3 bingo lines, which let you press Alt+C to teleport to the credits without having to beat Shriek.
 * Zone hints: Lupo's maps give hints about how many skills there is in the current area. Wood's hints and Glades' hints can be bought from Lupo in Glades. This header is compatible with the Teleporter Zone Hints header.
 * No Rain: Marsh start as sunny, instead of starting rainy until you get the sword tree. This also trigger the spawn of some ennemies and remove the Howl fight entirely.

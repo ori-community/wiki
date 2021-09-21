@@ -4,11 +4,11 @@ tags:
 - logic group
 ---
 
-Paths are dictating what skills you need in order to access new items. Default, Advanced and Unsafe can be viewed as difficulty settings while the other ones are enabling unique paths within the difficulty you selected.
+Paths are dictating what skills you need in order to access new items. Moi, Gorlek and Unsafe can be viewed as difficulty settings while the other ones are enabling unique paths within the difficulty you selected.
 
-Each difficulty have their own rules which dictates what the randomizer might want you to do. One important thing to know is that when each difficulty includes all the paths from the previous difficulty as well. So, for example, when playing in the Advanced difficulty the randomizer will chose paths from both Default and Advanced as intended progression.
+Each difficulty have their own rules which dictates what the randomizer might want you to do. One important thing to know is that when each difficulty includes all the paths from the previous difficulty as well. So, for example, when playing in the Gorlek difficulty the randomizer will chose paths from both Moki and Gorlek as intended progression.
 
-## Default
+## Moki
 
 This difficulty is designed for players who have finished the game at least once. A seed in this difficulty does not require any particular knowledge as long as you know how to use Ori's skillset. The logic can ask you to use these skills, individually or in combination:
 
@@ -23,12 +23,12 @@ This difficulty is designed for players who have finished the game at least once
 
 In this difficulty, the logic expects you to have found Regenerate and have enough HP to enter Woods, Pools, Depths, Baur, Wastes and Willow. Woods, Pools, Depths and Baur require at least 4.5 HP, Wastes requires at least 5.5 HP and Willow requires 6.5 HP. Regenerate is also expected for combat shrines, arenas and boss fights.
 
-## Advanced
+## Gorlek
 
-The Advanced difficulty is designed for more advanced players. In this difficulty, more precise utilisation of skills are required. These options are added to the logic:
+The Gorlek difficulty is designed for more advanced players. In this difficulty, more precise utilisation of skills are required. These options are added to the logic:
 
-- Paths that would be possible with the Default difficulty's rules but are either not obvious or considered too tricky to execute for this difficulty.
-- Connection that are not obvious to Default difficulty's players because the camera isn't showing a pickup.
+- Paths that would be possible with the Moki difficulty's rules but are either not obvious or considered too tricky to execute for this difficulty.
+- Connection that are not obvious to Moki difficulty's players because the camera isn't showing a pickup.
 - Using the Triple Jump shard.
 - Bashing Grenade projectiles for horizontal movement.
 - One damage boost per path, regardless of the amount of damage (taking one damage which reduce your health by 3 would
@@ -38,7 +38,7 @@ The Advanced difficulty is designed for more advanced players. In this difficult
 - [Sword or Hammer up attack for extra height](/tutorials/movement/weapon-movement).
 - [Bow to go through darkness in Depths](/tutorials/movement/light-sources).
 
-The logic expects you to have found Regenerate to enter Woods, Pools, Depths, Baur, Wastes and Willow but unlike in Default, there are no HP requirements to enter them in Advanced.
+The logic expects you to have found Regenerate to enter Woods, Pools, Depths, Baur, Wastes and Willow but unlike in Moki, there are no HP requirements to enter them in Gorlek.
 Regenerate is still expected for boss fights, arenas and combat shrines.
 
 ## Unsafe
@@ -57,16 +57,16 @@ The unsafe difficulty is meant for paths which have not been sorted in any diffi
 - Aerial [sentry jumps](/tutorials/movement/sentry-jumps)
 - [Grenade to go through darkness in Depths](/tutorials/movement/light-sources)
 
-Unsafe logic is also removing all requirement from the Default and Advanced difficulties in order to enter Woods, Pools, Depths, Baur, Wastes and Willow.
+Unsafe logic is also removing all requirement from the Moki and Gorlek difficulties in order to enter Woods, Pools, Depths, Baur, Wastes and Willow.
 
 ## Glitches
 
 All the other paths options are related to glitches and will only be added in logic if you are playing in the difficulty which enable them or in the difficulty above.
-- [Sword Sentry Jump](/tutorials/movement/sentry-jumps) is a glitch which let you get a lot of height by combining Sword and Sentry. This path add grounded sentry jumps using Sword in Advanced and above.
-- [Hammer Sentry Jump](/tutorials/movement/sentry-jumps) is a glitch which let you get a lot of height by combining Hammer and Sentry. This path add grounded sentry jumps using Hammer in Advanced and above.
-- [Shuriken Break](/tutorials/movement/wall-break#shuriken) is a way to break wall from the wrong side by clipping shuriken into walls. This path add them in Advanced and above.
+- [Sword Sentry Jump](/tutorials/movement/sentry-jumps) is a glitch which let you get a lot of height by combining Sword and Sentry. This path add grounded sentry jumps using Sword in Gorlek and above.
+- [Hammer Sentry Jump](/tutorials/movement/sentry-jumps) is a glitch which let you get a lot of height by combining Hammer and Sentry. This path add grounded sentry jumps using Hammer in Gorlek and above.
+- [Shuriken Break](/tutorials/movement/wall-break#shuriken) is a way to break wall from the wrong side by clipping shuriken into walls. This path add them in Gorlek and above.
 - [Sentry Break](/tutorials/movement/wall-break#sentry) is a way to break wall from the wrong side by using Sentry. This path add them in Unsafe.
 - [Spear Break](/tutorials/movement/wall-break#spear) is a way to break small wall from the wrong side by clipping Spear into walls. This path add them in Unsafe.
 - [Hammer Break](/tutorials/movement/wall-break#shuriken) is a way to break wall from the wrong side by using Hammer. This path add them in Unsafe.
-- [Sentry Burn](/tutorials/movement/sentry-as-a-fire-source) is using Sentry as a way to activate lanterns and melting ice. This path add them in Advanced and above.
-- [Remove Kill Plane](/tutorials/location/feeding-ground-skip) is a way to disable the kill plane in Feeding Grond, which let you access Weeping Ridge without collecting the wisps. This path add them in Advanced and above.
+- [Sentry Burn](/tutorials/movement/sentry-as-a-fire-source) is using Sentry as a way to activate lanterns and melting ice. This path add them in Gorlek and above.
+- [Remove Kill Plane](/tutorials/location/feeding-ground-skip) is a way to disable the kill plane in Feeding Grond, which let you access Weeping Ridge without collecting the wisps. This path add them in Gorlek and above.
