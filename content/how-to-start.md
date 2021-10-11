@@ -24,7 +24,7 @@ need to close the game and open your .wotwr file again.
 
 Once the randomizer launches successfully, you simply need to start playing! It’s recommended to play on a new save file
 because the randomizer will also affect savefiles made with the base game. If you ever feel lost when playing a seed,
-you can open your map and use the logic filter which will show you every item you can collect with the skills you have.
+you can open your map and use [In Logic filter](/features/logic-helper) which will show you every item you can collect with the skills you have.
 You can also read the [paths section of the seed generation](/seedgen/paths) to learn more about what the randomizer might want you to do. The
 community is also able to help so don’t hesitate to join
 the [Ori speedrunning Discord](https://discord.com/invite/aSz79M4) or

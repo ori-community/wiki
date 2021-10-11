@@ -17,4 +17,4 @@ There are 381 item locations in the entire game. Depending on your [seed generat
 * 5 Shard Slot (from Combat Shrines)
 * 5 Wisps (Voice, Memory, Eyes, Strength, Seir)
 
-In-game, you will be able to open your map to see the position of these pickups. Depending on your settings, you might also have access to a new logic filter which will show all pickups you currently have access to with your skill set.
+In-game, you will be able to open your map to see the position of these pickups. You can also use the [In Logic filter](/features/logic-helper) in order to see each pickup you can currently reach with your skillset.
