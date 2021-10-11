@@ -6,7 +6,7 @@ tags:
 
 The randomizer adds a few new commands you can activate by pressing multiple keys at the same time. Many of these are disabled in race seeds.
 
-* Alt + P: Shows your progress in the seed (number of pickup collected, progress in [goals](/features/goal-modes) and [hints](/features/hints)
+* Alt + P: Shows your progress in the seed (number of pickup collected, progress in [goals](/seedgen/goals) and [hints](/features/hints)
 * Alt + L: Reloads the current seed.
 * Alt + T: Shows the textbox of the last item you collected
 * Ctrl + Alt + D: Toggle Debug Menu

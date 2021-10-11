@@ -34,8 +34,8 @@ The Gorlek difficulty is designed for more advanced players. In this difficulty,
 - One damage boost per path, regardless of the amount of damage (taking one damage which reduce your health by 3 would
   be in logic but taking two damages which each reduce your health by 1 is not in logic despite the fact that you took
   less damage).
-- [Sword or Hammer aerial combo in order to hover](/tutorials/movement/weapon-movement).
-- [Sword or Hammer up attack for extra height](/tutorials/movement/weapon-movement).
+- [Sword or Hammer aerial combo in order to hover](/tutorials/movement/weapon-movement#hover).
+- [Sword or Hammer up attack for extra height](/tutorials/movement/weapon-movement#up-slash).
 - [Bow to go through darkness in Depths](/tutorials/movement/light-sources).
 
 The logic expects you to have found Regenerate to enter Woods, Pools, Depths, Baur, Wastes and Willow but unlike in Moki, there are no HP requirements to enter them in Gorlek.
@@ -54,7 +54,7 @@ The unsafe difficulty is meant for paths which have not been sorted in any diffi
 - [Weapon jumps](/tutorials/movement/weapon-jumps)
 - [Sword pogo](/tutorials/movement/sword-pogo)
 - [Glide jumps](/tutorials/movement/glide-jumps)
-- Aerial [sentry jumps](/tutorials/movement/sentry-jumps)
+- Aerial [sentry jumps](/tutorials/movement/sentry-jumps#aerial-sentry-jumps)
 - [Grenade to go through darkness in Depths](/tutorials/movement/light-sources)
 
 Unsafe logic is also removing all requirement from the Moki and Gorlek difficulties in order to enter Woods, Pools, Depths, Baur, Wastes and Willow.
@@ -67,6 +67,6 @@ All the other paths options are related to glitches and will only be added in lo
 - [Shuriken Break](/tutorials/movement/wall-break#shuriken) is a way to break wall from the wrong side by clipping shuriken into walls. This path add them in Gorlek and above.
 - [Sentry Break](/tutorials/movement/wall-break#sentry) is a way to break wall from the wrong side by using Sentry. This path add them in Unsafe.
 - [Spear Break](/tutorials/movement/wall-break#spear) is a way to break small wall from the wrong side by clipping Spear into walls. This path add them in Unsafe.
-- [Hammer Break](/tutorials/movement/wall-break#shuriken) is a way to break wall from the wrong side by using Hammer. This path add them in Unsafe.
+- [Hammer Break](/tutorials/movement/wall-break#hammer) is a way to break wall from the wrong side by using Hammer. This path add them in Unsafe.
 - [Sentry Burn](/tutorials/movement/sentry-as-a-fire-source) is using Sentry as a way to activate lanterns and melting ice. This path add them in Gorlek and above.
-- [Remove Kill Plane](/tutorials/location/feeding-ground-skip) is a way to disable the kill plane in Feeding Grond, which let you access Weeping Ridge without collecting the wisps. This path add them in Gorlek and above.
+- [Remove Kill Plane](/tutorials/location/feeding-ground-skip#after-cat-and-mouse) is a way to disable the kill plane in Feeding Grond, which let you access Weeping Ridge without collecting the wisps. This path add them in Gorlek and above.

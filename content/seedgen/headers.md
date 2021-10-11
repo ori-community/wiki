@@ -4,7 +4,7 @@ tags:
 - seedgen
 ---
 
-Headers allow you to customize certain aspects of the game, like adding or removing pickups from the item pool, creating custom pickups, and changing uberstates within the game. The [seed generation](/seedgen) comes with many prebuilt headers for you to use. If you are interested in creating your own headers, you can read through the [Header Creation Guide](https://docs.google.com/document/d/1IR1DHnbtO8rydCLEgFh-yp3iRkzZbFAG-EmR5hxrfmU/edit).
+Headers allow you to customize certain aspects of the game, like adding or removing pickups from the item pool, creating custom pickups, and changing uberstates within the game. The [seed generation](/seedgen) comes with many prebuilt headers for you to use. If you are interested in creating your own headers, you can read through the [Header Documentation](https://docs.google.com/document/d/1IR1DHnbtO8rydCLEgFh-yp3iRkzZbFAG-EmR5hxrfmU/edit).
 
 Here is a list of all the prebuilt headers in the seed generator:
 * Spawn with Sword: You will start the game with Sword instead of having to find it at a normal pickup location.
@@ -26,11 +26,11 @@ Here is a list of all the prebuilt headers in the seed generator:
 * Teleporter Zone Hints: Lupo's maps give hints about how many teleporter pickups there are in the current area. Hints for Woods and Glades can be bought from Lupo in Glades. This header is compatible with the Zone Hints header.
 * No Combat: Remove all combat sequences such as combat shrines, fight rooms, and boss fights. This gives a new access to Baur's Reach from Glades since the fight room is already completed. Combat shrine pickups are floating above the shrine themselves and can be collected without starting the shrine.
 * No Launch: Removes Launch from the game. Requires at least [Gorlek](/seedgen/paths#gorlek) level paths, as [Moki](/seedgen/paths#moki) requires Launch in order to reach the final boss. Some pickups may not be logically accesible and will contain Spirit Light instead.
-* 3-Line Bingo utilities: This header can only be used when playing [bingo](/features/multiplayer). Sets the game as completed once you have completed 3 bingo lines, allowing you use the [Rando Menu Wheel](/features/special-commands) to teleport to the credits without having to beat Shriek.
+* 3-Line Bingo utilities: This header can only be used when playing [bingo](/features/multiplayer#bingo). Sets the game as completed once you have completed 3 bingo lines, allowing you use the [Rando Menu Wheel](/features/special-commands) to teleport to the credits without having to beat Shriek.
 * Zone hints: Lupo's maps give hints about how many skills there are in the current area. Hints for Woods and Glades can be bought from Lupo in Glades. This header is compatible with the Teleporter Zone Hints header.
 * No Rain: Marsh start as sunny, instead of being rainy until you get the sword tree. This also triggers the spawn of some enemies and removes the Howl fight entirely.
 * Launch on Seir: Launch will always be placed on Seir, which you obtain by finishing the Ruins escape.
-* Launch from Bingo: This header can only be used when playing [bingo](/features/multiplayer). This grants you Launch once you have finished two lines.
+* Launch from Bingo: This header can only be used when playing [bingo](/features/multiplayer#bingo). This grants you Launch once you have finished two lines.
 * No Willow Hearts: All Willow hearts are already destroyed, making final boss accessible from the beginning. This also affects the paths to some items.
 * Spawn Tuley: Tuley is in Glades from the beginning, instead of needing to finish the Wellspring escape.
 * Jumpgrades: Adds bonus pickups in the item pool that make you jump higher

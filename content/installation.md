@@ -15,6 +15,9 @@ from [this page](https://github.com/sparkle-preference/OriWotwRandomizerClient/r
 install the randomizer. Remember where you installed it, since you will be launching the mod from this folder.
 
 
+Because of the randomizer is working by injecting its own functionalities in the base game, anti-virus tend to view it as a malware.
+You might need to whitelist the folder in which you installed the randomizer so you anti-virus ins't preventing it from launching.
+
 ## Steam
 
 Since the randomizer needs to launch Ori and the Will of the Wisps, it needs to know where your steam installation

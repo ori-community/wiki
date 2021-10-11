@@ -10,9 +10,9 @@ Though they are not related to the randomizer, the Ori speedrun community do hav
 * Multibinds are allowed but macros are not (having multiple actions on the same button is allowed but every action has to resolve on the same frame).
 * You can’t bind the same action (dash, jump…) to more than 4 buttons (because the ingame rebinding tool doesn’t allow it either)
 
-Changing up your binds can be really useful, especially if you are playing in with glitches such as [Sentry Jumps](/tutorials/movement/sentry-jumps) or if you are playing on a controller but want to use [randomizer's special commands](/features/special-commands) more easily.
+Modifying your binds can be really useful, especially if you are playing with glitches such as [Sentry Jumps](/tutorials/movement/sentry-jumps) or if you are playing on a controller but want to use [randomizer's special commands](/features/special-commands) more easily.
 
-The most used binds are [Alt+P](/features/special-commands), [sentry jumps](/tutorials/movement/sentry-jumps) and [grenade jump](/tutorials/movement/greande-jumps).
+The most used binds are [Alt+P](/features/special-commands), [sentry jumps](/tutorials/movement/sentry-jumps) and [grenade jump](/tutorials/movement/grenade-jumps).
 
 
 ## Keyboard
@@ -33,7 +33,7 @@ Don’t forget to reload your game after you modify this file. Avoid using the i
 
 ## Third party software
 
-There is a bunch of third party software you can use to bind your actions. The most popular one being [AutoHotKey](https://www.autohotkey.com/) which lets you run a script in which you can specify what binds you want. AutoHotKey can also support macros so it is more versatile than the KeyRebinding file from Ori and the Will of the Wisps. You can learn how to use this tool be reading the [documentation](https://www.autohotkey.com/docs/AutoHotkey.htm).
+There is a bunch of third party software you can use to bind your actions. The most popular one being [AutoHotKey](https://www.autohotkey.com/) which lets you run a script in which you can specify what binds you want. AutoHotKey can also support macros so it is more versatile than the KeyRebinding file from Ori and the Will of the Wisps. You can learn how to use this tool by reading the [documentation](https://www.autohotkey.com/docs/AutoHotkey.htm).
 
 ## Controllers
 

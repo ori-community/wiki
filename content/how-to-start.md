@@ -4,7 +4,7 @@ title: How to start
 
 After [installing the randomizer](/installation), you need to get a .wotwr file. These files contain the necessary
 information for your randomized playthrough, like the location of each item. You can generate these files yourself by
-using the [seed generator](https://wotw.orirando.com/seedgen). You can find instruction on how to use the seed generator [here](https://wotw.orirando.com/seedgen)
+using the [seed generator](https://wotw.orirando.com/seedgen). You can find instruction on how to use the seed generator [here](https://wotw.orirando.com/seedgen).
 
 For beginners, we recommend to play with the Moki preset and the All Wisps goal. You can choose to disable All Wisps which is
 a [goal mode](/seedgen/goals) preventing you from entering the last Willow room before you collected all 5 wisps.
