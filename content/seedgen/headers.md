@@ -20,7 +20,7 @@ Here is a list of all the prebuilt headers in the seed generator:
 * Vanilla Opher Upgrades: Places the vanilla weapon upgrades such as Exploding Spike at their vanilla location, in Opher's shop.
 * Open Mode: Removes many one-way doors in the game, allowing you to go through them from the other side. Logic will account for these changes.
 * Glades Done: Start with every seed planted in Glades as well as every Glades rebuilding project already finished.
-* Launch Fragments: There are 5 Launch Fragment pickups in the seed and finding 3 of them will grant you Launch. The logic recongnize that you got Launch once you have at least 3 fragments.
+* Launch Fragments: There are 5 Launch Fragment pickups in the seed and finding 3 of them will grant you Launch. The logic helper recongnize that you got Launch once you have at least 3 fragments but all 5 fragments are accessible without using Launch.
 * No Quests: All items collected by talking to NPC don't have any items. Location behind quests such as the tree in Glades will be open from the start.
 * No KS Doors: All Keystone doors start open.
 * Teleporter Zone Hints: Lupo's maps give hints about how many teleporter pickups there are in the current area. Hints for Woods and Glades can be bought from Lupo in Glades. This header is compatible with the Zone Hints header.
