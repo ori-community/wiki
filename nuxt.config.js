@@ -13,7 +13,7 @@ export default {
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: 'Timo\'s Blog',
+    title: 'Ori Randomizer Wiki',
     titleTemplate: title => title ? `${title} - Ori Randomizer Wiki` : 'Ori Randomizer Wiki',
     meta: [
       {charset: 'utf-8'},
