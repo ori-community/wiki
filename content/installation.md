@@ -10,13 +10,12 @@ fine).
 
 ## Download
 
-Download the lastest WotWRando.exe
-from [this page](https://github.com/sparkle-preference/OriWotwRandomizerClient/releases/latest). Launch this file to
+Download the lastest `WotwRandoSetup.exe` from [this page](https://github.com/ori-rando/build/releases). Launch this file to
 install the randomizer. Remember where you installed it, since you will be launching the mod from this folder.
 
 
-Because of the randomizer is working by injecting its own functionalities in the base game, anti-virus tend to view it as a malware.
-You might need to whitelist the folder in which you installed the randomizer so you anti-virus ins't preventing it from launching.
+Because the randomizer is working by injecting its own functionalities in the base game, anti-virus tend to view it as a malware.
+You might need to whitelist the folder in which you installed the randomizer so you anti-virus ins't preventing it from launching and installing.
 
 ## Steam
 
