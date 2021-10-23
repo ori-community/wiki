@@ -11,4 +11,4 @@ This ensures that every playthrough is beatable by placing each progression item
 For more information, you can read the [paths sections of the seed generation](/seedgen/paths).
 This mod also adds other functionality to the game. Click on the links below to learn more about them.
 
-<page-list by-path="/features"></page-list>
+<page-list by-path="/features" deep></page-list>

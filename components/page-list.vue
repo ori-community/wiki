@@ -12,7 +12,7 @@
 
   export default {
     name: 'page-list',
-    props: ['byTag', 'byPath'],
+    props: {byTag: String, byPath: String, deep: Boolean},
     data: () => ({
       articles: [],
     }),
@@ -33,7 +33,7 @@
       let query
 
       if (this.byPath) {
-        query = this.$content(this.byPath, {deep: true}).where({slug: {$ne: '_index'}})
+        query = this.$content(this.byPath, {deep: this.deep}).where({slug: {$ne: '_index'}})
       } else {
         query = this.$content({deep: true})
       }
