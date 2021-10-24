@@ -22,9 +22,9 @@ The second kind of paths are glitches. All difficulties are glitchless by defaul
 
 - [Sword Sentry Jump](/tutorials/movement/sentry-jumps) is a glitch which let you get a lot of height by combining Sword and Sentry. This path add grounded sentry jumps using Sword in Gorlek and above.
 - [Hammer Sentry Jump](/tutorials/movement/sentry-jumps) is a glitch which let you get a lot of height by combining Hammer and Sentry. This path add grounded sentry jumps using Hammer in Gorlek and above.
-- [Shuriken Break](/tutorials/movement/wall-break#shuriken) is a way to break wall from the wrong side by clipping shuriken into walls. This path add them in Gorlek and above.
-- [Sentry Break](/tutorials/movement/wall-break#sentry) is a way to break wall from the wrong side by using Sentry. This path add them in Unsafe.
-- [Spear Break](/tutorials/movement/wall-break#spear) is a way to break small wall from the wrong side by clipping Spear into walls. This path add them in Unsafe.
-- [Hammer Break](/tutorials/movement/wall-break#hammer) is a way to break wall from the wrong side by using Hammer. This path add them in Unsafe.
-- [Sentry Burn](/tutorials/movement/sentry-as-a-fire-source) is using Sentry as a way to activate lanterns and melting ice. This path add them in Gorlek and above.
-- [Remove Kill Plane](/tutorials/location/feeding-ground-skip#after-cat-and-mouse) is a way to disable the kill plane in Feeding Grond, which let you access Weeping Ridge without collecting the wisps. This path add them in Gorlek and above.
+- [Shuriken Break](/tutorials/misc/wall-break#shuriken) is a way to break wall from the wrong side by clipping shuriken into walls. This path add them in Gorlek and above.
+- [Sentry Break](/tutorials/misc/wall-break#sentry) is a way to break wall from the wrong side by using Sentry. This path add them in Unsafe.
+- [Spear Break](/tutorials/misc/wall-break#spear) is a way to break small wall from the wrong side by clipping Spear into walls. This path add them in Unsafe.
+- [Hammer Break](/tutorials/misc/wall-break#hammer) is a way to break wall from the wrong side by using Hammer. This path add them in Unsafe.
+- [Sentry Burn](/tutorials/area-specific/sentry-as-a-fire-source) is using Sentry as a way to activate lanterns and melting ice. This path add them in Gorlek and above.
+- [Remove Kill Plane](/tutorials/sequence-breaks/feeding-ground-skip#after-cat-and-mouse) is a way to disable the kill plane in Feeding Grond, which let you access Weeping Ridge without collecting the wisps. This path add them in Gorlek and above.

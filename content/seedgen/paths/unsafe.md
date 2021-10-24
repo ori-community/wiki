@@ -15,12 +15,12 @@ Since Unsafe don't have any guideline, it can ask you to use a lot of different 
 - A path that requires more than one damage boost
 - Swimming through dirty water
 - Using Bash to reposition enemies
-- [Energy weapons for movement](/tutorials/movement/ability-hop)
-- Using Deflector, Grenade or Sentry to [redirect projectiles](/tutorials/movement/projectile-redirection)
+- [Energy weapons for movement](/tutorials/movement/weapon-energy-movement)
+- Using Deflector, Grenade or Sentry to [redirect projectiles](/tutorials/misc/projectile-redirection)
 - [Bash glide](/tutorials/movement/bash-glide)
 - [Dash ramp](/tutorials/movement/dash-ramp)
 - [Sword pogo](/tutorials/movement/sword-pogo)
-- [Grenade to go through darkness in Depths](/tutorials/movement/light-sources)
+- [Grenade to go through darkness in Depths](/tutorials/area-specific/light-sources)
 
 Unsafe logic is also removing all requirement in order to enter Woods, Pools, Depths, Baur, Wastes and Willow while other difficulties logically requires you to have Regenerate in order to access those areas.
 
@@ -28,9 +28,9 @@ Unsafe logic is also removing all requirement in order to enter Woods, Pools, De
 
 On top of the Glitches added in logic in [Gorlek](/seedgen/paths/gorlek), Unsafe also let you toggle these glitches:
 
-- [Sentry Break](/tutorials/movement/wall-break#sentry) is a way to break wall from the wrong side by using Sentry.
-- [Spear Break](/tutorials/movement/wall-break#spear) is a way to break small wall from the wrong side by clipping Spear into walls.
-- [Hammer Break](/tutorials/movement/wall-break#hammer) is a way to break wall from the wrong side by using Hammer.
+- [Sentry Break](/tutorials/misc/wall-break#sentry) is a way to break wall from the wrong side by using Sentry.
+- [Spear Break](/tutorials/misc/wall-break#spear) is a way to break small wall from the wrong side by clipping Spear into walls.
+- [Hammer Break](/tutorials/misc/wall-break#hammer) is a way to break wall from the wrong side by using Hammer.
 
 ## Non toggleable Glitches
 
