@@ -21,6 +21,8 @@ Here is a list of all the prebuilt headers in the seed generator:
 * Vanilla Opher Upgrades: Places the vanilla weapon upgrades such as Exploding Spike at their vanilla location, in Opher's shop.
 * Open Mode: Removes many one-way doors in the game, allowing you to go through them from the other side. Logic will account for these changes.
 * Bonus Opher Upgrade: Opher will be guaranteed to sell five weapon upgrades unique to the randomizer: Spike, Shuriken, Blaze and Sentry efficiency which reduce the cost of the respective weapon by half and Rapid Smash which increase the speed of Hammer.
+* No Trials: Spirit Trials won't give any items.
+* Trial Hints: When activating a Spirit Trial, reveals what the reward for finishing this Spirit Trial is. 
 * Glades Done: Start with every seed planted in Glades as well as every Glades rebuilding project already finished.
 * Launch Fragments: There are 5 Launch Fragment pickups in the seed and finding 3 of them will grant you Launch. The logic helper recognize that you got Launch once you have at least 3 fragments but all 5 fragments are accessible without needing Launch. This header let you specify how many launch fragments there is in the seed and how much of them are required in ordere to unlock Launch.
 * No Quests: All items collected by talking to NPC don't have any items. Location behind quests such as the house in Woods will be open from the start.
