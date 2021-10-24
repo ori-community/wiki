@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1635080605",layout:"default",error:a,serverRendered:true,routePath:"\u002Fseedgen\u002Fgenerator",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"0ac5a7d8"}}}}(null));
