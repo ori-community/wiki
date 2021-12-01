@@ -53,9 +53,8 @@ If you use Launch while you are running on a slope, you can use a second Launch 
 
 ## Launch Glide
 
-This trick is exclusive to keyboard and mouse control, but you can [bind](/features/keybinds) your second stick as a mouse if you want to use it on a controller.
-If before using Launch you release your directional input after doing either a backflip, releasing a bash or doing a reverse dash, you will preserve some of your Launch momentum.
+After doing either a backflip, releasing a bash or doing a reverse dash, use launch and release your directional input. This will preserve some of your Launch momentum, making it faster than usual.
 You can combine this with Launch Swap to go even faster.
-Launch Glide can be executed with a controller on the Switch version but is not possible on the Xbox or PC version without a keyboard and mouse.
+The randomizer fixes Launch Glide with a controller but, on the vanilla version, this can't be done unless when aiming your Launch with a mouse (unless if you are playing on the Switch version).
 
 <youtube-video id="aVQNR97Y7cI"></youtube-video>

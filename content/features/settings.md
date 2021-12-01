@@ -33,17 +33,19 @@ Options which change how to control some abilities.
 * Burrow Mouse Aiming: In the vanilla game, when using burrow you control Ori by using your directional inputs. With this option, you will control Ori's movement with your mouse cursor which lets you move in all directions rather than being limited to the 4 directions of your keyboard.
 * Water Dash Mouse Aiming: In the vanilla game, when using water dash you control Ori by using your directional inputs. With this option, you will control Ori's movement with your mouse cursor which lets you move in all directions rather than being limited to the 4 directions of your keyboard.
 * Invert Swim Speeds: In the vanilla game, holding the jump button makes Ori swims faster. With this option, Ori will be swimming at maximum speed by default and will be slowing down when holding your jump button.
+* Lock Cursor to Window: Prevents your mouse cursor from going outside of the game window
 
 ## Miscellaneous
 
-* Always Show Keystones: Display your keystone count in the top left corner at all time. Without this option, it would only appears when you are near a door.
+* Show Stats After Finish: When finishing a game, your launcher will be displaying the [Statistics](/features/stats) of that game.
 * Random Currency Names: When collecting Spirit Light, the "Spirit Light" text will be a random currency name. This does not impact the actual gameplay.
+* Always Show Keystones: Display your keystone count in the top left corner at all time. Without this option, it would only appears when you are near a door.
 
 ## Launch Settings
 
 * Steam path: The path to your Steam execution file. If you own the Steam version of the game instead of the Windows Store one, make sure this path is correct. You can change this path by clicking the folder icon on the right.
 * Launch with Item Tracker: Automatically open the item tracker when launching the randomizer
-* Disable Netcode: Prevents the randomizer from communicating with the rando server. With this option checked, bingo auto tracking and other netcode features like coop games will be unavailable.
+* Disable Netcode: Prevents the randomizer from communicating with the rando server. With this option checked, bingo auto tracking and other netcode features related to [multiplayer](/features/multiplayer) will be unavailable.
 * Use Windows Store: Launch the randomizer using Windows Store instead of Steam.
 
 ## Developer Tools
