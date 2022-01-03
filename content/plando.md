@@ -7,6 +7,6 @@ A plandomizer (often shortened as plando) is a special kind of seed where anothe
 Here is a list of every available Plandos. You can contact the plando's creator if there isn't any direct link to them and you want to play them :
 - [It's Dangerous To Go Alone](https://dl.dropboxusercontent.com/s/is8324jbdkwk6fk/ItsDangerousToGoAlone.zip) by Sirius, a high difficulty challenge 
 - Chaos by CosmicAngel, completely randomize your skills once you collect a new pickup
-- [Fireball](https://www.youtube.com/watch?v=6GxAqIRbSM0) by CosmicAngel
-- Kaizo by CosmicAngel 
-- Time (Act 1) by CosmicAngel
+- [Fireball](https://bluespheres.weebly.com/fireball.html) by CosmicAngel
+- [Kaizo](https://bluespheres.weebly.com/kaizo.html) by CosmicAngel 
+- [Time (Act 1)](https://bluespheres.weebly.com/time-act-1.html) by CosmicAngel
