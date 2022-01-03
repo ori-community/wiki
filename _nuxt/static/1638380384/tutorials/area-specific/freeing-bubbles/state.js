@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1638380384",layout:"default",error:a,serverRendered:true,routePath:"\u002Ftutorials\u002Farea-specific\u002Ffreeing-bubbles",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"1f1d3ca4"}}}}(null));
