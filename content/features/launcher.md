@@ -4,9 +4,9 @@ tags:
 - feature
 ---
 
-You can access every randomizer's features through the launcher. In order to open it, simply open `Ori and the Will of the Wisps Randomizer.exe` from your randomizer's installation folder.
+You can access every randomizer's features through the launcher. In order to open it, simply open Ori and the Will of the Wisps Randomizer.exe from your randomizer's installation folder.
 
-From there, you have multiple tabs for launching a seed, [generating a seed](/seedgen), accessing your [settings](/features/settings) or playing in [multiplayer](/features/multiplayer).
+From there, you have multiple tabs for launching a seed, [generating a seed](/seedgen), accessing your [settings](/features/settings), looking at [statistics](/features/stats) of your current game or playing in [multiplayer](/features/multiplayer).
 
 ## Home
 
@@ -22,11 +22,15 @@ From here, you can also create a [multiplayer](/features/multiplayer) game by us
 
 ## Game
 
-This is where you can settup multiplayer games. To access this tab you need to be logged in, which is using [Discord](https://discord.com/). There is multiple way to play with other players which are all explained on the [multiplayer](/features/multiplayer) page.
+This tab will most likely appear as a number, next to the Home tab. It is where you can setup multiplayer games. To access this tab you need to be logged in, which is using [Discord](https://discord.com/). There is multiple way to play with other players which are all explained on the [multiplayer](/features/multiplayer) page.
 
 ## Seed Generator
 
-From this tab, you can generate seed by using a local [seed generator](/seedgen). A seed is a file containing informations about where every items are located and you need one in order to play the randomizer.
+From this tab, you can generate seed by using the [seed generator](/seedgen). A seed is a file containing informations about where every items are located and you need one in order to play the randomizer.
+
+## Stats
+
+Here, you will be able to see [statistics](/features/stats) about your current game such as your number of deaths, the time spend in each area or the number of pickup you collected. You have to load a savefile in order to see those information.
 
 ## Settings
 

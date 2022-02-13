@@ -18,4 +18,4 @@ The most important special command is the [Custom Wheel](/features/custom-wheel)
 * Ctrl + Alt + C: Show current coordinates.
 * Ctrl + Alt + N: Toggles showing location names in spoiler filter (hold L in map).
 
-Ctrl + Alt + 1, 2, 3, 4 and 5 are also special commands but they don't do anything by default. When playing plandos or by using some headers, these commands can be used to display additional functionalities.
+Ctrl + Alt + 1, 2, 3, 4 and 5 are also special commands but they don't do anything by default. When playing plandos or by using some headers, these commands can be used to display additional information.

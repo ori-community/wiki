@@ -4,7 +4,7 @@ tags:
 - feature
 ---
 
-In the Stats tab of the Launcher, you can see the statistics of your current seed.
+In the Stats tab of the Launcher, you can see the statistics of your current seed. You need to load a savefile in order to see those information.
 
 For each area, the randomizer will share how many pickups you got, how many time you died and how much time you spend here aswell as showing your Pickups Per Minute (PPM). PPM is a ratio between how many pickups you collected and how much time you spend in the area. The higher it gets, the faster you are collecting pickups.
 
