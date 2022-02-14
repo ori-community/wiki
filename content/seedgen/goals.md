@@ -11,15 +11,15 @@ If you enable the Progress Helper [header](/seedgen/headers), you can use the [C
 
 ## All Trees 
 
-In this mode, you will have to visit all 14 ancestral trees and collect their pickups. These trees are the 12 skills trees located in Marsh, Howl's Den, Kwolok’s Hollow, Wellspring, Wastes, Pools, Reach, Depths, and Weeping Ridge plus the 2 Ancestral Light trees located in Glades and above Burrows.
+In this mode, you will have to visit all 14 Ancestral Trees and collect their pickups. These trees are the 12 skills trees located in Marsh, Howl's Den, Kwolok’s Hollow, Wellspring, Wastes, Pools, Reach, Depths, and Weeping Ridge plus the 2 Ancestral Light trees located in Glades and above Burrows.
 
 ## All Wisps 
 
-All Wisps adds the requirement to collect all the wisps, which are located to their normal location. These wisps are the Voice (from Kwolok in Kwolok’s Hollow), Memory (from finishing the Reach escape), Eyes (from defeating Mora in Depths), Strength (from defeating Kwolok in Pools) and Heart (from finishing the Worm's escape in Wastes).
+All Wisps adds the requirement to collect all the wisps, which are located to their normal location. These wisps are the Voice, Memory, Eyes, Strength and Heart respectively from Kwolok in Kwolok’s Hollow, finishing the Reach escape, defeating Mora in Depths, defeating Kwolok in Pools and finishing the Worm's escape in Wastes.
 
 ## All Quests 
 
-All Quests adds the requirement to finish every quest in the game. This includes all main quests (mainly collecting the wisps) but also every side quest including Hand to Hand and Rebuilding the Glades. You can view your quest progress on the map screen.
+All Quests adds the requirement to finish every quest in the game. This includes all main quests (mainly collecting the wisps) but also every side quest like Hand to Hand and Rebuilding the Glades. You can view your quest progress on the map screen.
 
 ## World Tour 
 

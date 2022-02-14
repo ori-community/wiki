@@ -9,16 +9,16 @@ Gorlek is a difficulty which you can enable from the [Paths tab](/seedgen/paths)
 ## Glichless
 
 - Paths that would be possible with the Moki difficulty's rules but are either not obvious or considered too tricky to execute for this difficulty.
-- Connection that are not obvious to Moki difficulty's players because the camera isn't making it clear you can take a specific path.
-- Using the Triple Jump shard.
+- Connection that are not obvious to Moki's players because the camera isn't making it clear you can take a specific path.
+- Using the Triple Jump shard for movement.
 - Bashing Grenade projectiles for horizontal movement.
 - One damage boost per path, regardless of the amount of damage (taking one damage which reduce your health by 3 would be in logic but taking two damages which each reduce your health by 1 is not in logic despite the fact that you took less damage).
 - [Sword or Hammer aerial combo in order to hover](/tutorials/movement/weapon-movement#hover).
 - [Sword or Hammer up attack for extra height](/tutorials/movement/weapon-movement#up-slash).
 - [Bow to go through darkness in Depths](/tutorials/area-specific/light-sources#bow).
 
-The logic expects you to have found Regenerate to enter Woods, Pools, Depths, Baur, Wastes and Willow but unlike in Moki, there are no HP requirements to enter them in Gorlek.
-Regenerate is still expected for boss fights, arenas and combat shrines.
+The logic expects you to have found Regenerate to enter Woods, Pools, Depths, Baur, Wastes and Willow but unlike in Moki, there are no health requirement to enter them in Gorlek.
+Regenerate is still expected for boss fights and combat shrines.
 
 ## Glitches
 
