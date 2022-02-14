@@ -4,7 +4,7 @@ title: Tutorials
 
 ## Sequence Breaks
 
-There are quite a few ways to access specific areas faster than intended, the following section goes over what you can do to skip location requirements.
+There are quite a few ways to access specific areas sooner than intended. The following section goes over what you can do to skip location requirements.
 
 <page-list by-path="/tutorials/sequence-breaks" deep></page-list>
 
@@ -16,7 +16,7 @@ Movement in Ori and the Will of the Wisps is quite deep. There are a bunch of ad
 
 ## Area specific knowledge
 
-Some areas in the game have a gimmick and by using some game knowledge you can interact with that game mecanic in unique way.
+Some areas in the game have a gimmick and by using some game knowledge you can interact with that game mechanic in unique ways.
 
 <page-list by-path="/tutorials/area-specific" deep></page-list>
 

@@ -4,6 +4,6 @@ tags:
 - movement-tutorial
 ---
 
-When you are near a corner of a wall, it is possible to walljump on it even through it shouldn't be possible. It is however possible to get that walljump if you have no speed at all (both vertical and horizontal) when you input your jump, which is a ceiling jump.
+When you are under the corner of a wall, it is possible to wall jump on it even though it shouldn't be possible. You can only get that wall jump if you have no speed at all (both vertical and horizontal) when you input your jump.
 
 <youtube-video id="ayw1TlPlutc"></youtube-video>

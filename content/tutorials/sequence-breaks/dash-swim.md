@@ -17,7 +17,7 @@ Here is how the scene looks like before pulling the lever which let you access t
 
 ![](https://i.imgur.com/Rm47WFE.png)
 
-The black part is the dirty water itself, you can clearly see that the bottom part of the scene isn't flooded. The goal is to swim through the dirty water in order to access the lower part. Midway through the dirty water is a blue rectangle, which is a checkpoint it is possible to activate that checkpoint even though it is in dirty water.
+The black part is the dirty water itself, you can clearly see that the bottom part of the scene isn't flooded. The goal is to swim through the dirty water in order to access the lower part. Midway through the dirty water is a blue rectangle, which is a checkpoint you can activate even though it is in dirty water.
 
 Depending on which difficulty you are playing on, you will need more or less health in order to do so, needing as little as 3 healths in the easy difficulty. If you have a lot of health you should be able to swim through the water without any difficulty, as long as you know where the walls which you need to avoid are. When you have less health, you want to activate that checkpoint because, when the game respawns Ori, it gives you some of your health back. This extra heal makes it possible to finish dash swim even with very low amount of health.
 

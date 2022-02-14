@@ -24,13 +24,12 @@ If you stick to the wall and use shuriken, some of them will pass through the wa
 
 ## Hammer
 
-If you stick to the upper part of a wall and use hammer you will be able to break small walls, this does not work on the bigger barriers.
-You can hit the barrier more consistently if you combine it with slowdown.
+If you stick to the upper part of a wall and use hammer you will be able to break small walls. This only works on the small walls and not on the bigger barriers. You can hit the walls more consistently if you combine it with slowdown.
 
 <youtube-video id="3jVJEs8DfqQ"></youtube-video>
 
 ## Spear
 
-If you stick to the upper part of a wall and use spear you will be able to break small walls, this does not work on the bigger barriers.
+If you stick to the upper part of a wall and use spear you will be able to break small walls. This only works on the small walls and not on the bigger barriers.
 
 <youtube-video id="SXKFztrympo"></youtube-video>

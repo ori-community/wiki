@@ -28,7 +28,7 @@ You can make Grenade explode by either pressing your Grenade button while there 
 
 ## Sentry
 
-Sentry will explode when it runs out, which changes the direction of projectiles. Sentrys area of effect is much smaller than Grenade so you will need to be much more precise.
+Sentry will explode when it runs out, which changes the direction of projectiles. Sentry's area of effect is much smaller than Grenade so you will need to be much more precise.
 
 <youtube-video id="juIUSSL9OIE"></youtube-video>
 

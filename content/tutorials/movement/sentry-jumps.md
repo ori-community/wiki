@@ -32,7 +32,9 @@ For Sword sentry jumps, you want to first use your sentry and a couple frames af
 
 <youtube-video id="jR5eEe0YpqQ"></youtube-video>
 
-Hammer aerial sentry jumps on the other hand are really different from grounded ones. The inputs are the same as grounded ones even if you need to input sentry faster for the aerial variant but this should not give you a lot of height by itself. What you want to do instead is start with a horizontal hammer attack and then do the sentry jump input.
+Hammer aerial sentry jumps on the other hand are really different from grounded ones. The inputs are the same as grounded sentry jumps but you need to input sentry faster for the aerial variant.
+
+This should not give you a lot of height by itself. What you want to do instead is start with a horizontal hammer attack and then do the sentry jump input.
 
 After that, change your direction and do a horizontal slash to gain more height. Continue to do horizontal attacks in the opposite direction until Ori slows down. You can also chain these sentry jumps but you will need to do at least one horizontal attack before doing an up slash again since you have a lot of recovery time when doing two up slashes in a row. 
 

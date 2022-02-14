@@ -5,11 +5,11 @@ tags:
     - pools
 ---
 
-In order to reach the Kwolok's fight in Luma Pools, you are supposed to use Water Dash in order to pass through some crushers but it's actually possible to pass them through normal swimming
+In order to reach the Kwolok's fight in Luma Pools, you are supposed to use Water Dash in order to pass through some crushers but it's actually possible to avoid them through normal swimming
 
 ## Glitching the crushers
 
-If you can reach the checkpoint in the keystone room above, you can glitch out the crushers. For this, simply activate that checkpoints and let the cruchers stomp you. Once you returned there, the crushers won't be at their normal position so you can swim above them to avoid triggering them. You can glitch them out one by one if you aren't confortable with this trick.
+If you can reach the checkpoint in the keystone room above, you can glitch out the crushers. For this, simply activate that checkpoints and let the cruchers stomp you. Once you returned to the crushers after respawning, the crushers won't be at their normal position so you can swim above them to avoid getting stomped by them. You can do this trick on one crusher at the time if you aren't confortable with glitching multiple crushers at the same time.
 
 <youtube-video id="9ku72WWaOCA"></youtube-video>
 
