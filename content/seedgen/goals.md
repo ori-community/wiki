@@ -20,7 +20,7 @@ All Wisps adds the requirement to collect all the wisps, which are located to th
 ## All Quests 
 
 All Quests adds the requirement to finish every quest in the game. This includes all main quests (mainly collecting the wisps) but also every side quest like Hand to Hand and Rebuilding the Glades. You can view your quest progress on the map screen.  
-In addition to the Progress Helper's quest status, you can use this [list of quests](/seedgen/quests) to learn about the exact requirements.
+In addition to the Progress Helper's quest status, you can use this [list of quests](/tutorials/misc/quests) to learn about the exact requirements.
 
 ## World Tour 
 

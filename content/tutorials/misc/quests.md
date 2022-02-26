@@ -1,8 +1,5 @@
 ---
-title: Quests
-tags:
-- seedgen
-- goals
+title: Quests Guide
 ---
 
 ## Randomizer Quests
@@ -33,7 +30,7 @@ In detail, the quests require you to:
 
 **Family Reunion**: Build the first huts with Grom's help in Wellspring Glades and talk to the father Moki near Grom to collect a key. Use it near the entrance of Silent Woods to open his family's house, then return to the father Moki.
 
-**The Tree Keeper**: In preparation, complete the Wellspring escape so Tuley is present in Wellspring Glades (gardener NPC to the right). Talk to the Kii near the entrance of Silent Woods. Bring the branch they gives you to Tuley, then return to the Kii. Bring the seed they gives you to Tuley and plant it.  
+**The Tree Keeper**: In preparation, complete the Wellspring escape so Tuley is present in Wellspring Glades (gardener NPC to the right). Talk to the Kii near the entrance of Silent Woods. Bring the branch they give you to Tuley, then return to the Kii. Bring the seed they give you to Tuley and plant it.  
 *Note*: Using the Quality-of-Life [preset](/seedgen/presets) shortens this quest: Through the combination of the Tuley Spawn, No Branch and Autoplants [headers](/seedgen/headers), the only step left is talking to the Kii in Woods, which will complete the quest.
 
 **A Diamond in the Rough**: Collect the Raw Shard by Burrowing near a Shovel in the early parts of Windswept Wastes and bring it to Twillen.
