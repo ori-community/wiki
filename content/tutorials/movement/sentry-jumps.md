@@ -36,6 +36,6 @@ Hammer aerial sentry jumps on the other hand are really different from grounded 
 
 This should not give you a lot of height by itself. What you want to do instead is start with a horizontal hammer attack and then do the sentry jump input.
 
-After that, change your direction and do a horizontal slash to gain more height. Continue to do horizontal attacks in the opposite direction until Ori slows down. You can also chain these sentry jumps but you will need to do at least one horizontal attack before doing an up slash again since you have a lot of recovery time when doing two up slashes in a row. 
+After that, you can [extend](/tutorials/movement/extending-hammer) your sentry jump by doing a horizontal slash in the opposite direction to gain more height. Continue to do horizontal attacks in the opposite direction until Ori slows down. You can also chain these sentry jumps but you will need to do at least one horizontal attack before doing an up slash again since you have a lot of recovery time when doing two up slashes in a row. 
 
 <youtube-video id="GgXAUQraIM4"></youtube-video>
