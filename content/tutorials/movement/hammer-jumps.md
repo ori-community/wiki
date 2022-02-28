@@ -8,7 +8,7 @@ tags:
 
 Hammer jumps let you get a lot more height from your jumps than usual. This is a great movement tool which you combine with a lot of different movement option. To do a hammer jump, start by a horizontal attack and cancel it by a jump. Keep holding your jump and input a second horizontal slash.
 
-Once you performed a hammer jump, you can get even [extend them](/tutorials/movement/extending-hammer) by alternating horizontal slashes on the opposite side. 
+Once you performed a hammer jump, you can even [extend them](/tutorials/movement/extending-hammer) by alternating horizontal slashes on the opposite side. 
 
 ## Hammer jump with Aerial Jumps
 
