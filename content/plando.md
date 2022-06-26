@@ -8,7 +8,7 @@ You need to launch them through the randomizer in order to play them. Plandos ar
 
 Here is a list of every available Plando. You can contact the plando's creator if there is no direct link to them and you want to play them :
 - [It's Dangerous To Go Alone](https://dl.dropboxusercontent.com/s/is8324jbdkwk6fk/ItsDangerousToGoAlone.zip) by Sirius, a high difficulty challenge 
-- Chaos by CosmicAngel, completely randomizes your skills every time you collect a new pickup
+- [Chaos](https://bluespheres.weebly.com/chaos.html) by CosmicAngel, completely randomizes your skills every time you collect a new pickup
 - [Fireball](https://bluespheres.weebly.com/fireball.html) by CosmicAngel
 - [Kaizo](https://bluespheres.weebly.com/kaizo.html) by CosmicAngel 
 - [Time (Act 1)](https://bluespheres.weebly.com/time-act-1.html) by CosmicAngel
