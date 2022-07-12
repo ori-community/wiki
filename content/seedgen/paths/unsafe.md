@@ -37,7 +37,8 @@ On top of the Glitches added in logic in [Gorlek](/seedgen/paths/gorlek), Unsafe
 Unsafe also add these glitches in logic but since the Seed Generator doesn't provide any options to disable them (yet!), these will be added by default just like Glitchless paths.
 
 - [Grenade Jumps](/tutorials/movement/grenade-jumps)
-- [Weapon jumps](/tutorials/movement/weapon-jumps)
+- [Hammer jumps](/tutorials/movement/hammer-jumps)
+- [Sword jumps](/tutorials/movement/sword-jumps)
 - [Glide jumps](/tutorials/movement/glide-jumps)
 - Aerial [sentry jumps](/tutorials/movement/sentry-jumps#aerial-sentry-jumps)
 - [Pause floats](/tutorials/movement/pause-float)
