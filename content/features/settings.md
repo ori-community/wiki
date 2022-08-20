@@ -57,5 +57,5 @@ If you press Ctrl 5 times while on the Settings tab, a Developer Tools section w
 * Enable Developper Tools: Automatically activated when pressing Ctrl 5 times. Unchecking it will hide Developer tools again
 * Enable Debug Controls: Enable Debug Controls by default when starting the randomizer
 * Update to prerelease versions: Let you play on the latest development versions. These version have more features but are also more unstable
-* Server URL: Let you change on which server you want to send your netcode information to. Use dev.wotw.orirando.com for the dev server, which is used by the prereleased versions
+* Server Host: Let you change on which server you want to send your netcode information to. Use dev.wotw.orirando.com for the dev server, which is used by the prereleased versions and wotw.orirando.com for stable version
 * Wait for Debugger: The randomizer will wait for a debugger to attach before initialization. This is purely in order to debug the code
