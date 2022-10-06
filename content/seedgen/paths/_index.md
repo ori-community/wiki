@@ -12,6 +12,7 @@ The first kind of paths are difficulties. Each difficulty has its own guidelines
 
 - [Moki](/seedgen/paths/moki) is the easiest difficulty within the randomizer. It only requires using game mechanics the base game teaches you.
 - [Gorlek](/seedgen/paths/gorlek) is the difficulty just above Moki, adding easy to learn game mechanics.
+- [Kii](/seedgen/paths/kii) is the difficulty above Gorlek, adding some more precise movement options.
 - Although [Unsafe](/seedgen/paths/unsafe) is defined as a difficulty, it doesn't have any guidelines; it's simply a collection of path which doesn't respect the guideline of the other difficulty.
 
 Each difficulty also includes every path from previous difficulties, which means every Moki path is included in the Gorlek difficulty. You can learn more about what the game can expect from you when playing in a difficulty by reading their respective pages.
