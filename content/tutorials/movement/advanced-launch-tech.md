@@ -55,6 +55,7 @@ If you use Launch while you are running on a slope, you can use a second Launch 
 
 After doing either a backflip, releasing a bash or doing a reverse dash, use launch and release your directional input. This will preserve some of your Launch momentum, making it faster than usual. You can combine this with [Launch Swap](/tutorials/movement/advanced-launch-tech#launch-swap) to go even faster.
 
-On the vanilla version of the game, it's impossible to perform a Launch Glide while using a controller but the randomizer fixes this issue. It's also possible to perform a Launch Glide on a controller when playing on the Switch version.
+On the vanilla version of the game, performing Launch Glides while using a controller has strong limitations. You may need to adjust your settings to reduce the left stick deadzone, then very slightly move the control stick to be able to aim the launch without moving it too far for the directional input to cancel the Glide state. On Switch, the default deadzone already works for this, on PC it has to be set lower than the default.  
+In the randomizer, this issue is fixed and you can aim your launch normally as long as you release the directional input after launching (the same way you would do a [Bashglide](/tutorials/movement/bash-glide))
 
 <youtube-video id="aVQNR97Y7cI"></youtube-video>
