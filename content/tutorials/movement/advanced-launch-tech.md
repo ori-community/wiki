@@ -22,6 +22,8 @@ In order to perform it: jump in a direction, press the opposite direction, launc
 * Boosting to the right: jump right, press left, launch towards the right, keep holding left
 * Boosting to the left:  jump left, press right, launch towards the left, keep holding right
 
+On controller, Boosted Launches are very difficult to perform since you cannot simultaneously move to the left while launching to the right. Due to this, controller players prefer the other techniques on this page to get additional speed out of Launch.
+
 <youtube-video id="zeLow-pN5-I"></youtube-video>
 
 ## Weapon Launch
