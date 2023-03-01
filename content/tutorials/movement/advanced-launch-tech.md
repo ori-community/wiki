@@ -15,17 +15,6 @@ If you unequip Launch just after using it, your launch will be faster and will g
 
 <youtube-video id="hkMq5wMOjy8"></youtube-video>
 
-## Boosted launch
-
-When you change your direction in the air, Ori plays a little turnaround animation. If you launch during that animation, your launch will keep its initial speed a bit longer, making it go further.
-In order to perform it: jump in a direction, press the opposite direction, launch in the same direction as your jump and keep holding the direction you pressed before using launch. Which means:
-* Boosting to the right: jump right, press left, launch towards the right, keep holding left
-* Boosting to the left:  jump left, press right, launch towards the left, keep holding right
-
-On controller, Boosted Launches are very difficult to perform since you cannot simultaneously move to the left while launching to the right. Due to this, controller players prefer the other techniques on this page to get additional speed out of Launch.
-
-<youtube-video id="zeLow-pN5-I"></youtube-video>
-
 ## Weapon Launch
 
 If you do a Launch upward and an upslash on the same frame, your Launch will go further. You can do it with both Sword and Hammer but Hammer Launch are more powerful than Sword Launch. Both can be used midair but you will need to use your Sword upslash if you want to do a Sword Launch midair. It's recommended to set up a [bind](/features/keybinds) to perform them more easily.
@@ -61,3 +50,14 @@ On the vanilla version of the game, performing Launch Glides while using a contr
 In the randomizer, this issue is fixed and you can aim your launch normally as long as you release the directional input after launching (the same way you would do a [Bashglide](/tutorials/movement/bash-glide))
 
 <youtube-video id="aVQNR97Y7cI"></youtube-video>
+
+## Boosted launch
+
+When you change your direction in the air, Ori plays a little turnaround animation. If you launch during that animation, your launch will keep its initial speed a bit longer, making it go further.
+In order to perform it: jump in a direction, press the opposite direction, launch in the same direction as your jump and keep holding the direction you pressed before using launch. Which means:
+* Boosting to the right: jump right, press left, launch towards the right, keep holding left
+* Boosting to the left:  jump left, press right, launch towards the left, keep holding right
+
+On controller, Boosted Launches are very difficult to perform since you cannot simultaneously move to the left while launching to the right. Due to this, controller players prefer the other techniques on this page to get additional speed out of Launch.
+
+<youtube-video id="zeLow-pN5-I"></youtube-video>
