@@ -11,6 +11,6 @@ To do so, stay close to an enemy while being underwater, wait until you hear Ori
 
 For example, this can be used in order to swim in dirty water, giving you access to woods without Clean Water.
 
-If you have Water Breath you won't be able to drown, making you enable to enable god mode. For unknown reason, you also can't enable god mode if you have Spear.    
+If you have Water Breath you won't be able to drown, making you unable to enable god mode. For unknown reason, you also can't enable god mode if you have Spear.    
 
 <youtube-video id="46Tz2N1Rx6c"></youtube-video>
