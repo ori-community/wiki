@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1712317179",layout:"default",error:a,serverRendered:true,routePath:"\u002Ftutorials\u002Fsequence-breaks\u002Fsilent-swim",config:{_app:{basePath:"\u002F",assetsPath:"\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"54523668"}}}}(null));
