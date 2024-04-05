@@ -6,7 +6,7 @@ tags:
   zone:
     - wellspring
 ---
-Charged Blaze can be used to destroy certain blobs from a distance, like the ones in wellspring.
+Charged Blaze can be used to destroy certain blobs from a distance, like the ones in wellspring. 
 
 Wellspring 2nd Floor:
 There is a tiny bit of wall/ledge above the grapple bud in the second floor of Wellspring. 

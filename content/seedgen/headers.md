@@ -18,9 +18,9 @@ Here is a list of all the prebuilt headers in the seed generator:
 * Bonus+: Adds new powerfull upgrades such as the ability to bash uncharged grenades. Learn more what items are added by this header by reading the [New Items](/features/new-items#bonus) page. This header have option to specify how many of each pickups you want to add to the item pool
 * Key Hints: Lupo, Opher and Twillen sell [hints](/features/hints) which reveal the areas in which you can find Clean Water, Burrow, Water Dash, Grenade, Glide, Flap, Flash, Bash, and Bow.
 * No Branch: Shorten the Tree Keeper quest by getting the Tree seed directly instead of getting a branch which you need to give to Tuley
-* Vanilla Opher Upgrades: Places the vanilla weapon upgrades such as Exploding Spike at their vanilla location, in Opher's shop
+* Vanilla Opher Upgrades: Places the vanilla weapon upgrades such as Exploding Spear at their vanilla location, in Opher's shop
 * Open Mode: Removes many one-way doors in the game, allowing you to go through them from the other side. Logic will account for these changes
-* Bonus Opher Upgrade: Opher will be guaranteed to sell five weapon upgrades unique to the randomizer: Spike, Shuriken, Blaze and Sentry efficiency which reduce the cost of the respective weapon by half and Rapid Smash which increase the speed of Hammer
+* Bonus Opher Upgrade: Opher will be guaranteed to sell five weapon upgrades unique to the randomizer: Spear, Shuriken, Blaze and Sentry efficiency which reduce the cost of the respective weapon by half and Rapid Smash which increase the speed of Hammer
 * No Trials: Spirit Trials won't give any items
 * Trial Hints: When activating a Spirit Trial, reveals what the reward for finishing this Spirit Trial is
 * Glades Done: Start with every seed planted in Glades as well as every Glades rebuilding project already finished

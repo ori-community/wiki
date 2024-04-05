@@ -3,7 +3,6 @@ title: Extending Momentum with Spear
 tags:
   abilities:
     - spear
-    - spike
     - bash
 ---
 

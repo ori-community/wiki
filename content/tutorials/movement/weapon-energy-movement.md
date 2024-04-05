@@ -7,7 +7,6 @@ tags:
     - flash
     - bow
     - shuriken
-    - spike
 ---
 
 When using energy weapons, Ori makes a little hop which can be used in order to get just a little bit more air time or reach higher up platforms.

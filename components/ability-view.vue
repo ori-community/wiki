@@ -1,6 +1,6 @@
 <template>
   <nuxt-link class="ability-view" :to="{name: 'search-query', params: $route.params, query: {ability}}" :class="{inline}">
-    <img class="ability-icon" :src="`/media/abilities/${ability}.png`" :alt="ability">
+    <img class="ability-icon" :src="`/media/abilities/${abilityImageName}.png`" :alt="ability">
     {{ abilityDisplayString }}
   </nuxt-link>
 </template>
@@ -17,8 +17,13 @@
     },
     computed: {
       abilityDisplayString() {
-        return this.ability.replace(/\b[a-z]/g, letter => letter.toUpperCase())
+        const displayString = this.ability.replace('-',' ')
+        return displayString.replace(/\b[a-z]/g, letter => letter.toUpperCase())
+      },
+      abilityImageName(){
+        return this.ability.replace(/\W+/g,'')
       }
+      
     }
   }
 </script>

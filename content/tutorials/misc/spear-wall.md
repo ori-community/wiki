@@ -2,7 +2,6 @@
 title: Spear going through walls
 tags:
   abilities:
-    - spike
     - spear
 ---
 
