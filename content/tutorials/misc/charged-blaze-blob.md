@@ -2,7 +2,7 @@
 title: Charged Blaze Blob
 tags:
   abilities:
-    - charged-blaze
+    - blaze
   zone:
     - wellspring
 ---
