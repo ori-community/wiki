@@ -3,13 +3,11 @@ title: Ori WotW Randomizer wiki
 sidebarTitle: Home
 ---
 
-Welcome to the Ori and the Will of the Wisps randomizer wiki!
+Welcome to the Ori and the Will of the Wisps Randomizer wiki!
 
-This is a mod for the PC version of Ori and the Will of the Wisps which changes the contents of pickups. So when playing
-the randomizer you will probably find skills when picking up a spirit light container!
-This mod greatly improves the replayability of the game and is playable by anyone who already finished the game once.
-For more advanced players, harder difficulties will ask you to progress by using more advanced movement options or
-glitches.
+It includes lots of information to help install this mod, understand the options for seed generation and learn
+about all the new things this mod adds.
 
-This wiki includes lots of information to help install this mod, understand the options for seed generation, and learn
-about all the new things included in this mod.
+The tutorials explain movement techs and other knowledge that is useful to progress in the game. They can also be of use in the vanilla game.
+
+If something is unclear or you need further help, don't hesitate to ask on Discord. Either the [Ori Speedrunning Discord](https://discord.com/invite/SUS57PWWnA) or the [Randomizer Development Discord](https://discord.gg/sfUr8ra5P7).
