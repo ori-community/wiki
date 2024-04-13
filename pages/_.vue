@@ -13,6 +13,9 @@
       <aside v-if="!article.hideSidebar">
         <div class="sticky">
           <div class="sidebar">
+            <nuxt-link v-for="article in sidebarArticles" :key="article.path" class="button" :to="article.path">
+              {{ article.sidebarTitle || article.title }}
+            </nuxt-link>
             <ul v-if="article.toc.length > 0" class="toc">
               <li v-for="link of article.toc" :key="link.id">
                 <nuxt-link :to="`#${link.id}`" class="item" :class="`indent-${link.depth - minTocLevel}`">
@@ -20,9 +23,6 @@
                 </nuxt-link>
               </li>
             </ul>
-            <nuxt-link v-for="article in sidebarArticles" :key="article.path" class="button" :to="article.path">
-              {{ article.sidebarTitle || article.title }}
-            </nuxt-link>
           </div>
         </div>
       </aside>
@@ -119,20 +119,20 @@
       .sticky {
         position: sticky;
         margin-top: 1em;
-        top: 0;
+        top: 1em;
 
         .sidebar {
           display: flex;
           flex-direction: column;
           max-height: 100vh;
-
+          
           .toc {
             list-style: none;
             padding-left: 0;
-            padding-bottom: 1em;
-            margin-bottom: 1em;
-            border-bottom: 1px solid var(--color-background-light);
-            transition: border-bottom-color 200ms;
+            padding-top: 1em;
+            margin-top: 1em;
+            border-top: 1px solid var(--color-background-light);
+            transition: border-top-color 200ms;
 
             .item {
               display: block;
