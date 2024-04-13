@@ -14,7 +14,7 @@
 
   &::before {
     border-radius: 0.5em;
-    content: '';
+    content: "";
     position: absolute;
     top: 0;
     left: 0;
@@ -29,13 +29,15 @@
     border: 2px solid var(--color-secondary);
     outline: none;
 
-    &::before {
-      box-shadow: 0 0.3px 2.2px rgba(126, 198, 249, 0.067),
-        0 0.7px 5.3px rgba(126, 198, 249, 0.097),
-        0 1.3px 10px rgba(126, 198, 249, 0.12),
-        0 2.2px 17.9px rgba(126, 198, 249, 0.143),
-        0 4.2px 33.4px rgba(126, 198, 249, 0.173),
-        0 10px 80px rgba(126, 198, 249, 0.24);
+    &.button-glow {
+      &::before {
+        box-shadow: 0 0.3px 2.2px rgba(126, 198, 249, 0.067),
+          0 0.7px 5.3px rgba(126, 198, 249, 0.097),
+          0 1.3px 10px rgba(126, 198, 249, 0.12),
+          0 2.2px 17.9px rgba(126, 198, 249, 0.143),
+          0 4.2px 33.4px rgba(126, 198, 249, 0.173),
+          0 10px 80px rgba(126, 198, 249, 0.24);
+      }
     }
   }
 }

@@ -13,7 +13,7 @@
       <aside v-if="!article.hideSidebar">
         <div class="sticky">
           <div class="sidebar">
-            <nuxt-link v-for="article in sidebarArticles" :key="article.path" class="button" :to="article.path">
+            <nuxt-link v-for="article in sidebarArticles" :key="article.path" class="button button-glow" :to="article.path">
               {{ article.sidebarTitle || article.title }}
             </nuxt-link>
             <ul v-if="article.toc.length > 0" class="toc">
