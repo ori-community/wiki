@@ -1,5 +1,5 @@
 ---
-title: Water Dash
+title: Dash Swim
 tags:
   abilities:
     - water-dash
