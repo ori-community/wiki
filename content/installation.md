@@ -8,9 +8,15 @@ The Ori and the Will of the Wisps Randomizer requires the latest version of the 
 
 ## Download
 
-Download the lastest WotwRandoSetup.exe from [our website](https://wotw.orirando.com). Launch this file to install the randomizer.
+# Windows
 
-Because the randomizer is working by injecting its own functionalities into the base game, anti-virus programs tend to view it as a malware. You will most likely need to whitelist the folder in which you installed the randomizer so your anti-virus is not preventing it from launching and installing.
+Download and install the latest setup executable from [our website](https://wotw.orirando.com/)
+
+Because the randomizer is working by injecting its own functionalities into the base game, antivirus programs tend to view it as a malware. You will most likely need to whitelist the folder in which you installed the randomizer so your antivirus is not preventing it from launching and installing.
+
+# Linux
+
+Download the latest application from [our website](https://wotw.orirando.com/), and lanuch the file titled "ori-rando-launcher" directly, no installation required
 
 ## Steam
 
