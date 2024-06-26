@@ -8,9 +8,17 @@ The Ori and the Will of the Wisps Randomizer requires the latest version of the 
 
 ## Download
 
-Download the lastest WotwRandoSetup.exe from [our website](https://wotw.orirando.com). Launch this file to install the randomizer.
+### Windows
 
-Because the randomizer is working by injecting its own functionalities into the base game, anti-virus programs tend to view it as a malware. You will most likely need to whitelist the folder in which you installed the randomizer so your anti-virus is not preventing it from launching and installing.
+Download and install the latest setup executable from [our website](https://wotw.orirando.com/)
+
+Because the randomizer is working by injecting its own functionalities into the base game, antivirus programs tend to view it as a malware. You will most likely need to whitelist the folder in which you installed the randomizer so your antivirus is not preventing it from launching and installing.
+
+### Linux
+
+Install [Bottles](https://flathub.org/apps/com.usebottles.bottles) using Flatpak, and launch it at least once, no further setup is required inside Bottles.
+
+Then, download the latest application from [our website](https://wotw.orirando.com/), and launch the file Launcher executable ("ori-rando-launcher") directly. Once you start the game for the first time from the Launcher, it will set up Bottles automatically.
 
 ## Steam
 
