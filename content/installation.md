@@ -18,7 +18,7 @@ Because the randomizer is working by injecting its own functionalities into the 
 
 Install [Bottles](https://flathub.org/apps/com.usebottles.bottles) using Flatpak, and launch it at least once, no further setup is required inside Bottles.
 
-Then, download the latest application from [our website](https://wotw.orirando.com/), and lanuch the file titled "ori-rando-launcher" directly, it should set up and manage all the necessary bottles automatically in the background once you load into the game.
+Then, download the latest application from [our website](https://wotw.orirando.com/), and launch the file Launcher executable ("ori-rando-launcher") directly. Once you start the game for the first time from the Launcher, it will set up Bottles automatically.
 
 ## Steam
 
