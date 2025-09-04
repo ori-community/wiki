@@ -9,7 +9,7 @@ The randomizer adds a few new commands you can activate by pressing multiple key
 The most important special command is the [Custom Wheel](/features/custom-wheel) which you can open by pressing V on a keyboard or holding both shoulder button at the same time. Each commands listed bellow are then accessible through this wheel.
 
 * Alt + P: Shows your progress in the seed (number of pickup collected, progress in [goals](/seedgen/goals) and [hints](/features/hints)).
-* Alt + L: Reloads the current seed.
+* Alt + F5: Reloads the current seed.
 * Alt + T: Shows the textbox of the last item you collected.
 * Alt + C: Teleports you to end of the game if you already completed your goal. Currently, this is only used by the 3-line bingo utility [header](/seedgen/headers).
 * Alt + /: Exit the randomizer instantly.
