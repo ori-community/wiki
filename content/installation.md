@@ -16,9 +16,9 @@ Because the randomizer is working by injecting its own functionalities into the 
 
 ### Linux
 
-Install [Bottles](https://flathub.org/apps/com.usebottles.bottles) using Flatpak, and launch it at least once, no further setup is required inside Bottles.
+Install [Bottles](https://flathub.org/apps/com.usebottles.bottles) using Flatpak, and launch it at least once. ~~No further setup is required inside Bottles.~~ Unfortunately, there are currently issues with setting up Bottles automatically. You will need to manually create a Bottle and name it "Ori and the Will of the Wisps Randomizer".
 
-Then, download the latest application from [our website](https://wotw.orirando.com/), and launch the file Launcher executable ("ori-rando-launcher") directly. Once you start the game for the first time from the Launcher, it will set up Bottles automatically.
+Then, download the latest version from [our website](https://wotw.orirando.com/) and extract it. Due to another limitation of Bottles, make sure to extract it to a path that does *not* have spaces in its name (e.g. "/home/user/ori-rando" is fine, "/home/user/games/Ori Rando" is not). Then start the launcher binary ("ori-rando-launcher").
 
 ## Steam
 
