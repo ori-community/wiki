@@ -13,7 +13,7 @@ Once you finished the first phase, the game tricks you into thinking you can't d
 
 <youtube-video id="97wdQwoCmoA"></youtube-video>
 
-The first spot is right after the first phase. Shriek will become invincible for a short amount of time right when you finish the first phase but when she flies off you can hit her for a bit beofre the escape starts.
+The first spot is right after the first phase. Shriek will become invincible for a short amount of time right when you finish the first phase but when she flies off you can hit her for a bit before the escape starts.
 
 Once in the escape, there is a couple spots where you can hit her (you can open the image in a new tab if you need to zoom).
 
