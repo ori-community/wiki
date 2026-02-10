@@ -20,7 +20,7 @@
   .youtube-video {
     display: flex;
     justify-content: center;
-    height: 16em;
+    aspect-ratio: 16/9;
 
     .embedded-player {
       border: none;
