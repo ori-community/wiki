@@ -7,7 +7,7 @@ tags:
     - sword
 ---
 
-Sentry jump is one of the biggest glitch in Ori and the Will of the Wisps. By using an upslash with either sword or hammer and a sentry, you will make a big jump. You can use it while on the ground or mid-air but the timing is different for every variation.
+Sentry jump is one of the biggest glitches in Ori and the Will of the Wisps. By using an upslash with either sword or hammer and a sentry, you will make a big jump. You can use it while on the ground or mid-air but the timing is different for every variation.
 Since you are using Sentry, you will spend 1 energy each time you do a sentry jump. Remember that you can only place 3 Sentries at a time so you will need to wait until your first Sentry expires before doing a 4th sentry jump in a row.
 
 Framerate influences aerial sentry jump’s timing as well as the height you gain from sentry jumps. It’s recommended to cap your game at either 60 or 59 FPS for the best results.
