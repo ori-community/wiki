@@ -7,7 +7,7 @@ tags:
     - hollow
 ---
 
-In order to access the lower part of Hollow, you normally need Bow in order to drain the water on the way to dash tree. This water stay dirty, even if you found Clean Water. However, the lower part of Hollow isn't flooded so you can swim through the dirty water and get all its pickups without having to drain the water.
+In order to access the lower part of Hollow, you normally need Bow in order to drain the water on the way to dash tree. This water stays dirty, even if you found Clean Water. However, the lower part of Hollow isn't flooded so you can swim through the dirty water and get all its pickups without having to drain the water.
 
 The amount of health you will need depends on the difficulty you are playing on. This amount can be greatly reduced by having either Water Dash or the Resilience shard. You can also use [godmode](/tutorials/misc/godmode) to remove the health requirement entirely.
 
