@@ -1,5 +1,5 @@
 ---
-title: Dash cancel
+title: Dash Cancel
 tags:
   abilities:
     - dash

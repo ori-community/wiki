@@ -1,5 +1,5 @@
 ---
-title: Spear going through walls
+title: Spear Going Through Walls
 tags:
   abilities:
     - spear

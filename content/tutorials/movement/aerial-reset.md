@@ -1,5 +1,5 @@
 ---
-title: Aerial reset
+title: Aerial Reset
 tags:
   abilities:
     - sword

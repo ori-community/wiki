@@ -1,5 +1,5 @@
 ---
-title: Silent swim
+title: Silent Swim
 tags:
   abilities:
     - water-dash

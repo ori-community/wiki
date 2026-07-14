@@ -1,5 +1,5 @@
 ---
-title: Advanced launch tech
+title: Advanced Launch Tech
 tags:
   abilities:
     - launch

@@ -1,5 +1,5 @@
 ---
-title: Bash glide
+title: Bash Glide
 tags:
   abilities:
     - bash

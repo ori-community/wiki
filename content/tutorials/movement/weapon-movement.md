@@ -1,5 +1,5 @@
 ---
-title: Weapon movement
+title: Weapon Movement
 tags:
   abilities:
     - sword

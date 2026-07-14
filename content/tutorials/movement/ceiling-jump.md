@@ -1,5 +1,5 @@
 ---
-title: Ceiling jump
+title: Ceiling Jump
 tags:
 - movement-tutorial
 ---

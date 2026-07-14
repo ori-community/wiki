@@ -1,5 +1,5 @@
 ---
-title: Light sources
+title: Light Sources
 tags:
   abilities:
     - bow

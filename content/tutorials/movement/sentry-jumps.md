@@ -1,5 +1,5 @@
 ---
-title: Sentry jumps
+title: Sentry Jump
 tags:
   abilities:
     - sentry

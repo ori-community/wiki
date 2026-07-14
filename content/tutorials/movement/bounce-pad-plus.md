@@ -1,5 +1,5 @@
 ---
-title: Bounce pad
+title: Bounce Pad
 tags:
   abilities:
     - grenade

@@ -1,5 +1,5 @@
 ---
-title: Kwolok's crushers without Water Dash
+title: Kwolok's Crushers without Water Dash
 tags:
   zones:
     - pools

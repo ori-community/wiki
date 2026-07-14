@@ -1,5 +1,5 @@
 ---
-title: Pause float
+title: Pause Float
 tags:
 - movement-tutorial
 ---

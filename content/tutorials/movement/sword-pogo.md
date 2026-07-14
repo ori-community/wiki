@@ -1,5 +1,5 @@
 ---
-title: Sword pogo
+title: Sword Pogo
 tags:
   abilities:
     - sword

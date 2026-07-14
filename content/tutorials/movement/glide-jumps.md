@@ -1,5 +1,5 @@
 ---
-title: Glide jumps
+title: Glide Jump
 tags:
   abilities:
     - glide

@@ -1,5 +1,5 @@
 ---
-title: Projectile redirection
+title: Projectile Redirection
 tags:
   abilities:
     - sword

@@ -1,5 +1,5 @@
 ---
-title: Sentry as a fire source
+title: Sentry Burn
 tags:
   abilities:
     - sentry

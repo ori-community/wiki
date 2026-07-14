@@ -1,5 +1,5 @@
 ---
-title: Dash ramp
+title: Dash Ramp
 tags:
   abilities:
     - dash

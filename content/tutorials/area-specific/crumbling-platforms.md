@@ -1,5 +1,5 @@
 ---
-title: Crumbling platforms in Wastes
+title: Crumbling Platforms in Wastes
 tags:
   abilities:
     - sentry

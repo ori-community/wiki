@@ -1,5 +1,5 @@
 ---
-title: Chain bash
+title: Chain Bash
 tags:
   abilities:
     - bash

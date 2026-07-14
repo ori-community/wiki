@@ -1,5 +1,5 @@
 ---
-title: Freeing bubbles in Pools
+title: Freeing Bubbles in Pools
 tags:
   abilities:
     - sentry

@@ -1,5 +1,5 @@
 ---
-title: Grenade jumps
+title: Grenade Jump
 tags:
   abilities:
     - grenade

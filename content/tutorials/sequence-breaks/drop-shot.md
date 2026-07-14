@@ -1,5 +1,5 @@
 ---
-title: Drop shot
+title: Drop Shot
 tags:
   abilities:
     - bow

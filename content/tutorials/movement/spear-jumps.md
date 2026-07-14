@@ -1,5 +1,5 @@
 ---
-title: Spear jumps
+title: Spear Jump
 tags:
   abilities:
     - spear

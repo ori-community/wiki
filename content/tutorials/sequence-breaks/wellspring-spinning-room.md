@@ -1,5 +1,5 @@
 ---
-title: Wellspring Spinning room
+title: Wellspring Spinning Room
 tags:
 - location-tutorial
 - clean-water

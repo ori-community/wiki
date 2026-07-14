@@ -1,5 +1,5 @@
 ---
-title: God mode
+title: God Mode
 tags:
   abilities:
     - bash

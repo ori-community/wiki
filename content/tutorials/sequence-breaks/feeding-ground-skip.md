@@ -1,5 +1,5 @@
 ---
-title: Feeding ground skip
+title: Feeding Grounds Skip
 tags:
   zones:
     - waste

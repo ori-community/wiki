@@ -1,5 +1,5 @@
 ---
-title: Hornbug skip
+title: Hornbug Skip
 tags:
   zones:
     - hollow

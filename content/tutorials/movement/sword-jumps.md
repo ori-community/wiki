@@ -1,5 +1,5 @@
 ---
-title: Sword jumps
+title: Sword Jump
 tags:
   abilities:
     - sword

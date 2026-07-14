@@ -1,5 +1,5 @@
 ---
-title: Grenade zoom
+title: Grenade Zoom
 tags:
   abilities:
     - bash

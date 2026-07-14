@@ -1,5 +1,5 @@
 ---
-title: Wall break
+title: Wall Break
 tags:
   abilities:
     - hammer

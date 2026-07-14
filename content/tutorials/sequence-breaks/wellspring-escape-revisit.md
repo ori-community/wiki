@@ -1,5 +1,5 @@
 ---
-title: Wellspring Escape Revisit before the escape
+title: Wellspring Escape Revisit Before the Escape
 tags:
   zones:
     - wellspring

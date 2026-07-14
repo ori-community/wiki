@@ -1,5 +1,5 @@
 ---
-title: Ability swap
+title: Ability Swap
 tags:
   abilities:
     - sentry

@@ -1,5 +1,5 @@
 ---
-title: Icefall furnace without Grenade
+title: Icefall Furnace without Grenade
 tags:
   zones:
     - reach

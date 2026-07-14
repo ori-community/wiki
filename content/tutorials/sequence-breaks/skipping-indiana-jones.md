@@ -1,5 +1,5 @@
 ---
-title: Skipping Falling boulder in Willow
+title: Skipping Falling Boulder in Willow
 tags:
   zones:
     - willow

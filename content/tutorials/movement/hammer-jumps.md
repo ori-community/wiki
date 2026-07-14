@@ -1,5 +1,5 @@
 ---
-title: Hammer jumps
+title: Hammer Jump
 tags:
   abilities:
     - hammer

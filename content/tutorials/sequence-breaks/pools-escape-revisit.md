@@ -1,5 +1,5 @@
 ---
-title: Kwolok Revisit before Kwolok fight
+title: Kwolok Revisit before Kwolok Fight
 tags:
   zones:
     - pools

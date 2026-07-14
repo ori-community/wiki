@@ -1,5 +1,5 @@
 ---
-title: Speed up Shriek fight
+title: Speed up Shriek Fight
 tags:
   zone:
     - willow

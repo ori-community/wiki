@@ -1,5 +1,5 @@
 ---
-title: Energy weapons as movement
+title: Energy Weapon as Movement
 tags:
   abilities:
     - sentry
