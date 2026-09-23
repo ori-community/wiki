@@ -8,16 +8,15 @@ Kii is a difficulty you can enable from the [Paths tab](/seedgen/paths) of the [
 
 ## Glitchless
 
-- Using the Deflector shard to deflect projectiles with Sword
-- [Bash Gliding](/tutorials/movement/bash-glide) as well as extending the Bash Glide with Double Jump or Glide.
+- Using Deflector to redirect projectiles with Sword or Hammer.
+- [Bash Gliding](/tutorials/movement/bash-glide) as well as preserving its speed with Double Jump or Glide.
 - Using Sword attacks for [aerial resets](/tutorials/movement/aerial-reset) as well as [Sword pogos](/tutorials/movement/sword-pogo).
-- Using ceilings to refresh your Launch or Dash.
-- Using Blaze, Flash, Sentry, Shuriken, or Spear for extended horizontal [energy weapon moevemnt](/tutorials/movement/weapon-energy-movement).
+- Using ceilings to refresh Launch and Dash.
+- Using Blaze, Flash, Sentry, Shuriken and Spear for extended horizontal [energy weapon movement](/tutorials/movement/weapon-energy-movement).
 - Swimming through clear dirty water is in logic, as well as using Water Dash to take less damage.
 - Unlimited damage boosts as long as you have enough health.
-- Combining horizontal Sword or Hammer swings with an upslash for more precise [weapon movement](/tutorials/movement/weapon-movement).
-- Coyote Dash is a way to dash over a cliff and being able to jump right after. This allows for more horizontal movement.
+- Coyote Dash which is dashing at a ledge and jumping right after. This let you dash a second time mid-air for more horizontal movement
 
 ## Glitches
 
-So far no glitches have been added to Kii.
+So far no glitches have been added to Kii but all [glitched paths from gorlek](/seedgen/paths/gorlek#glitches) are still used when generating a glitched seed in kii.
