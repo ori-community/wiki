@@ -13,7 +13,7 @@ Kii is a difficulty you can enable from the [Paths tab](/seedgen/paths) of the [
 - Using Sword attacks for [aerial resets](/tutorials/movement/aerial-reset) as well as [Sword pogos](/tutorials/movement/sword-pogo).
 - Using ceilings to refresh Launch and Dash.
 - Using Blaze, Flash, Sentry, Shuriken and Spear for extended horizontal [energy weapon movement](/tutorials/movement/weapon-energy-movement).
-- Swimming through clear dirty water is in logic, as well as using Water Dash to take less damage.
+- Swimming through poisoned water is in logic, as well as using Water Dash to take less damage from it.
 - Unlimited damage boosts as long as you have enough health.
 - Coyote Dash which is dashing at a ledge and jumping right after. This let you dash a second time mid-air for more horizontal movement
 
